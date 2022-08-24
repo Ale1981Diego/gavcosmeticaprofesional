@@ -1,0 +1,165 @@
+/* colores hover cremosos*/
+
+.esmalte__hover--cremoso {
+  border: rgba(255,255,255,0)!important;
+  border-radius: 0%;
+
+  color: #ffffff;
+  height: 5em; /*1.8em tamaño de pantalla >= 1024px*/
+  width: 2em;  /*1.8em tamaño de pantalla >= 1024px*/
+
+  margin: 0.7em;
+
+  position: relative;
+
+  z-index: 2;
+}
+
+.esmalte__hover--cremoso-bf {
+  background:  url('/imagenes-heburn/esmaltes/cremoso/cremoso-bf.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--cremoso-brillo {
+  background:  url('/imagenes-heburn/esmaltes/cremoso/cremoso-brillo.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--cremoso-30-vl {
+  background:  url('/imagenes-heburn/esmaltes/cremoso/cremoso-30-vl.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--cremoso-cf {
+  background:  url('/imagenes-heburn/esmaltes/cremoso/cremoso-cf.png') no-repeat;
+  background-size: contain; 
+}
+
+.esmalte__hover--cremoso-cr {
+  background:  url('/imagenes-heburn/esmaltes/cremoso/cremoso-cr.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--cremoso-calcio {
+  background:  url('/imagenes-heburn/esmaltes/cremoso/cremoso-calcio.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--cremoso-25 {
+  background:  url('/imagenes-heburn/esmaltes/cremoso/cremoso-25.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--cremoso-29 {
+  background:  url('/imagenes-heburn/esmaltes/cremoso/cremoso-29.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--cremoso-42 {
+  background:  url('/imagenes-heburn/esmaltes/cremoso/cremoso-42.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--cremoso-50 {
+  background:  url('/imagenes-heburn/esmaltes/cremoso/cremoso-50.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--cremoso-53 {
+  background:  url('/imagenes-heburn/esmaltes/cremoso/cremoso-53.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--cremoso-63 {
+  background:  url('/imagenes-heburn/esmaltes/cremoso/cremoso-63.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--cremoso-67 {
+  background:  url('/imagenes-heburn/esmaltes/cremoso/cremoso-67.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--cremoso-74-p {
+  background:  url('/imagenes-heburn/esmaltes/cremoso/cremoso-74p.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--cremoso-86-p {
+  background:  url('/imagenes-heburn/esmaltes/cremoso/cremoso-86p.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--cremoso-negro {
+  background:  url('/imagenes-heburn/esmaltes/cremoso/cremoso-negro.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--cremoso::after {
+  color: rgb(238, 209, 209);
+  
+  font-size: 0.8em;
+  
+  left: 0em;
+  position: absolute;
+  top: -2em;
+}
+
+.esmalte__hover--cremoso-bf::after {
+  content: 'Blanco French';
+}
+
+.esmalte__hover--cremoso-brillo::after {
+  content: 'Brillo';
+}
+
+.esmalte__hover--cremoso-30-vl::after {
+  content: 'Via Lactea';
+}
+
+.esmalte__hover--cremoso-cf::after {
+  content: 'Calcio Fortificado'
+}
+
+.esmalte__hover--cremoso-cr::after {
+  content: 'Calcio Rosa';
+}
+
+.esmalte__hover--cremoso-calcio::after {
+  content: 'Calcio';
+}
+
+.esmalte__hover--cremoso-25::after {
+  content: 'Cremoso 25';
+}
+
+.esmalte__hover--cremoso-29::after {
+  content: 'Cremoso 29';
+}
+
+.esmalte__hover--cremoso-42::after {
+  content: 'Cremoso 42';
+}
+.esmalte__hover--cremoso-50::after {
+  content: 'Cremoso 50';
+}
+.esmalte__hover--cremoso-53::after {
+  content: 'Cremoso 53';
+}
+.esmalte__hover--cremoso-63::after {
+  content: 'Cremoso 63';
+}
+.esmalte__hover--cremoso-67::after {
+  content: 'Cremoso 67';
+}
+
+.esmalte__hover--cremoso-74-p::after {
+  content: 'Perlado 74';
+}
+.esmalte__hover--cremoso-86-p::after {
+  content: 'Perlado 86';
+}
+
+.esmalte__hover--cremoso-negro::after {
+  content: 'Negro';
+}

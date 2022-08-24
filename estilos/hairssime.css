@@ -1,0 +1,145 @@
+/* main hairssime */
+
+section#coloracion, section#decoloracion, section#tratamientos, section#styling, section#hairLogic {
+    padding: 1em;
+}
+
+section#coloracion span.subrayado, section#decoloracion span.subrayado, section#tratamientos span.subrayado, section#styling span.subrayado, section#hairLogic span.subrayado {
+    display: block;
+    height: 0.3em;
+    width: 30px;
+    background-color: #E19438;
+    border-radius: 0.2em;
+}
+
+div.producto div.flex {
+    margin-top: 1em;
+    padding: 0.5em;
+    border: 1px solid rgba(230, 178, 178, 0.726);
+    border-radius: 0.5em;
+    box-shadow: 0.5em 0.5em 1.5em;
+}
+
+div.producto-texto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2em;
+    text-decoration: none;
+    line-height: 1.5;
+    text-align: justify;
+    padding: 1em;
+}
+
+div.producto-texto a {
+    text-decoration: inherit;
+    color:rgb(188, 65, 236);
+    font-weight: bolder;
+    margin-top: 1em;
+}
+
+p.costo {
+    margin-top: 1em;
+    font-weight: bolder;
+}
+
+div.producto-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1em;
+}
+
+div.producto-img img {
+    width: 80%;
+}
+
+.instagram-hairssime {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 20em;
+    right: 0.5em;
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+    border: 1px solid #ecc492;
+    transition: all 200ms ease-in-out;
+}
+
+.instagram-hairssime-contenedor {
+    width: 45px;
+    height: 45px;
+    margin: 0;
+    background-color: #ecc392d3;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: all 200ms ease-in-out;
+}
+
+.fa-instagram {
+    font-size: 1.5em;
+}
+
+.scale {
+    transform: scale(1.1);
+}
+
+.scale-interno {
+    transform: scale(0.7);
+}
+
+
+@media (min-width: 768px) {
+
+    div.flex {
+        display: flex;
+        width: 100%;
+    }
+
+    div.producto-texto, div.producto-img {
+        width: 50%;
+    }
+
+
+    div.producto-texto {
+        width: 30em;
+        font-size: 1.1em;
+        position: relative
+    }
+
+    p.costo {
+        position: absolute;
+        left: 1em;
+        bottom: 0.5em;
+    }
+
+    div.producto-img {
+        display: flex;
+        align-items: center;
+    }
+
+    div.producto-img img {
+        width: 90%;
+        display: block;
+        margin: 0 auto;
+    }
+}
+
+@media (min-width: 1024px) {
+
+    section#coloracion, section#decoloracion, section#tratamientos, section#styling, section#hairLogic {
+        width: 80%;
+        margin: 0 auto;
+    }
+
+    div.producto-texto {
+        width: 30em;
+        font-size: 1.2em;
+        position: relative
+    }
+}

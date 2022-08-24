@@ -1,0 +1,30 @@
+.hover__labios--matte {
+  border-radius: 50%;
+      
+  color: #ffffff;
+  height: 1.8em;
+  width: 1.8em;
+      
+  margin: 0.2em;
+      
+  z-index: 2;
+}
+
+.hover__labios--matte-01 {
+  background: url('/imagenes-heburn/labios/matte-humectante/252-01.png') 67% 18% no-repeat;
+}
+.hover__labios--matte-02 {
+  background: url('/imagenes-heburn/labios/matte-humectante/252-02.png') 75% 18% no-repeat;
+}
+.hover__labios--matte-03 {
+  background: url('/imagenes-heburn/labios/matte-humectante/252-03.png') 75% 18% no-repeat;
+}
+.hover__labios--matte-04 {
+  background: url('/imagenes-heburn/labios/matte-humectante/252-04.png') 75% 18% no-repeat;
+}
+.hover__labios--matte-05 {
+  background: url('/imagenes-heburn/labios/matte-humectante/252-05.png') 75% 18% no-repeat;
+}
+.hover__labios--matte-06 {
+  background: url('/imagenes-heburn/labios/matte-humectante/252-06.png') 75% 18% no-repeat;
+}

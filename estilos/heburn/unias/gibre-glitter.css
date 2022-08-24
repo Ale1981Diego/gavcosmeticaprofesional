@@ -1,0 +1,112 @@
+/* colores gibre / glitter para uñas */
+
+.esmalte__hover--gibre-glitter {
+  border: rgba(255, 255, 255, 0) !important;
+  border-radius: 0;
+
+  color: #ffffff;
+
+  position: relative;
+
+  height: 6em;
+  width: 3.2em;
+
+  margin: 0.5em;
+}
+
+.esmalte__img--gibre-glitter {
+  height: 250px;
+  width: auto;
+}
+
+.esmalte__hover--gibre-glitter-1 {
+  background: url('/imagenes-heburn/esmaltes/gibre-glitter/Gibre_1.png') no-repeat;
+  background-size: contain;
+}
+.esmalte__hover--gibre-glitter-2 {
+  background: url('/imagenes-heburn/esmaltes/gibre-glitter/Gibre_2.png') no-repeat;
+  background-size: contain;
+}
+.esmalte__hover--gibre-glitter-3 {
+  background: url('/imagenes-heburn/esmaltes/gibre-glitter/Gibre_3.png') no-repeat;
+  background-size: contain;
+}
+.esmalte__hover--gibre-glitter-4 {
+  background: url('/imagenes-heburn/esmaltes/gibre-glitter/Gibre_4.png') no-repeat;
+  background-size: contain;
+}
+.esmalte__hover--gibre-glitter-5 {
+  background: url('/imagenes-heburn/esmaltes/gibre-glitter/Gibre_5.png') no-repeat;
+  background-size: contain;
+}
+.esmalte__hover--gibre-glitter-6 {
+  background: url('/imagenes-heburn/esmaltes/gibre-glitter/Gibre_6.png') no-repeat;
+  background-size: contain;
+}
+.esmalte__hover--gibre-glitter-7 {
+  background: url('/imagenes-heburn/esmaltes/gibre-glitter/Gibre_7.png') no-repeat;
+  background-size: contain;
+}
+.esmalte__hover--gibre-glitter-8 {
+  background: url('/imagenes-heburn/esmaltes/gibre-glitter/Gibre_8.png') no-repeat;
+  background-size: contain;
+}
+.esmalte__hover--gibre-glitter-9 {
+  background: url('/imagenes-heburn/esmaltes/gibre-glitter/Gibre_9.png') no-repeat;
+  background-size: contain;
+}
+.esmalte__hover--gibre-glitter-10 {
+  background: url('/imagenes-heburn/esmaltes/gibre-glitter/Gibre_10.png') no-repeat;
+  background-size: contain;
+}
+.esmalte__hover--gibre-glitter-11 {
+  background: url('/imagenes-heburn/esmaltes/gibre-glitter/Gibre_11.png') no-repeat;
+  background-size: contain;
+}
+.esmalte__hover--gibre-glitter-12 {
+  background: url('/imagenes-heburn/esmaltes/gibre-glitter/Glitter_12.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--gibre-glitter::after {
+  position: absolute;
+  top: -1em;
+  left: -0.8em;
+}
+
+.esmalte__hover--gibre-glitter-1::after {
+  content: 'Color 1';
+}
+.esmalte__hover--gibre-glitter-2::after {
+  content: 'Color 2';
+}
+.esmalte__hover--gibre-glitter-3::after {
+  content: 'Color 3';
+}
+.esmalte__hover--gibre-glitter-4::after {
+  content: 'Color 4';
+}
+.esmalte__hover--gibre-glitter-5::after {
+  content: 'Color 5';
+}
+.esmalte__hover--gibre-glitter-6::after {
+  content: 'Color 6';
+}
+.esmalte__hover--gibre-glitter-7::after {
+  content: 'Color 7';
+}
+.esmalte__hover--gibre-glitter-8::after {
+  content: 'Color 8';
+}
+.esmalte__hover--gibre-glitter-9::after {
+  content: 'Color 9';
+}
+.esmalte__hover--gibre-glitter-10::after {
+  content: 'Color 10';
+}
+.esmalte__hover--gibre-glitter-11::after {
+  content: 'Color 11';
+}
+.esmalte__hover--gibre-glitter-12::after {
+  content: 'Color 12';
+}

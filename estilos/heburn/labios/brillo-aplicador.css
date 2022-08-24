@@ -1,0 +1,35 @@
+.hover__labios--brillo {
+  border-radius: 50%;
+    
+  color: #ffffff;
+  height: 1.6em;
+  width: 1.6em;
+    
+  margin: 0.18em;
+    
+  z-index: 2;
+}
+
+/*24%  52%*/
+
+.hover__labios--brillo-00 {
+  background: url('/imagenes-heburn/labios/brillo-aplicador/183-Brillo-labial-con-aplicador-00-min.png') 24% 52% no-repeat;
+}
+.hover__labios--brillo-01 {
+  background: url('/imagenes-heburn/labios/brillo-aplicador/183-Brillo-labial-con-aplicador-01-min.png') 24% 52% no-repeat;
+}
+.hover__labios--brillo-02 {
+  background: url('/imagenes-heburn/labios/brillo-aplicador/183-Brillo-labial-con-aplicador-02-min.png') 24% 52% no-repeat;
+}
+.hover__labios--brillo-03 {
+  background: url('/imagenes-heburn/labios/brillo-aplicador/183-Brillo-labial-con-aplicador-03-min.png') 24% 52% no-repeat;
+}
+.hover__labios--brillo-04 {
+  background: url('/imagenes-heburn/labios/brillo-aplicador/183-Brillo-labial-con-aplicador-04-min.png') 24% 52% no-repeat;
+}
+.hover__labios--brillo-05 {
+  background: url('/imagenes-heburn/labios/brillo-aplicador/183-Brillo-labial-con-aplicador-05-min.png') 24% 52% no-repeat;
+}
+.hover__labios--brillo-06 {
+  background: url('/imagenes-heburn/labios/brillo-aplicador/183-Brillo-labial-con-aplicador-06-min.png') 24% 52% no-repeat;
+}

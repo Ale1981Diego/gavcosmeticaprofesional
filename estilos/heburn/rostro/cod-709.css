@@ -1,0 +1,76 @@
+.contenedor__hover--cod-709 {
+  border: rgba(255,255,255,0)!important;
+  border-radius: 0;
+
+  color: #ffffff;
+  height: 7em;
+  width: 4em;
+
+  margin: 0.18em;
+
+  position: relative;
+
+  z-index: 2;
+}
+
+.contenedor__hover--cod-709-2 {
+  background: url('/imagenes-heburn/rostro/cod-709/709_2.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-709-3 {
+  background: url('/imagenes-heburn/rostro/cod-709/709_3.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-709-4 {
+  background: url('/imagenes-heburn/rostro/cod-709/709_4.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-709-5 {
+  background: url('/imagenes-heburn/rostro/cod-709/709_5.png') no-repeat center;
+  background-size: contain;
+}
+
+.contenedor__hover--cod-709-2::after {
+  color: rgb(238, 209, 209);
+  content: 'Color 2';
+
+  font-size: 0.9em;
+
+  left: 0.8em;
+  position: absolute;
+  top: 0.5em;
+}
+
+.contenedor__hover--cod-709-3::after {
+  color: rgb(238, 209, 209);
+  content: 'Color 3';
+
+  font-size: 0.9em;
+
+  left: 0.8em;
+  position: absolute;
+  top: 0.5em;
+}
+
+.contenedor__hover--cod-709-4::after {
+  color: rgb(238, 209, 209);
+  content: 'Color 4';
+
+  font-size: 0.9em;
+
+  left: 0.8em;
+  position: absolute;
+  top: 0.5em;
+}
+
+.contenedor__hover--cod-709-5::after {
+  color: rgb(238, 209, 209);
+  content: 'Color 5';
+
+  font-size: 0.9em;
+
+  left: 0.8em;
+  position: absolute;
+  top: 0.5em;
+}
+

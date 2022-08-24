@@ -1,0 +1,88 @@
+footer {
+    margin-top: 5em;
+    background-color:rgba(207, 172, 178, 0.5);
+}
+
+div#div-footer {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+div#div-footer div#div-iframe {
+    width: 100%;
+}
+div#div-footer div#div-iframe iframe {
+    width: 100%!important;
+}
+
+
+div#contactos {
+    width: 100%;
+    margin-top: 2em;
+}
+
+div#contactos h2 {
+    text-align: center;
+    color: #0000EE;
+}
+
+div.div-contactos {
+    width: 100%;
+    margin-top: 1.5em;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+div.div-contactos h4, div.div-contactos p, div.div-contactos i {
+    margin-top: 1em;
+    
+}
+
+div.div-contactos p.nTel {
+    cursor: pointer;
+}
+
+div.div-contactos i {
+    display: inline-block;
+    width: 2em;
+    cursor: pointer;
+    font-size: 1.4em;
+}
+
+.fa-facebook {
+    color:#0000EE;
+    /* direccion: https://www.facebook.com/gavdistribuciones */
+}
+
+.fa-instagram {
+    color: #fc466b;
+}
+
+/* .fa-twitter {
+    color: #6f83e8;
+} */
+
+.fa-whatsapp {
+    color: rgb(116, 145, 74);
+    /* tel: +54 (011) 3471 3549 */
+}
+
+@media (min-width: 768px) {
+    div#div-footer {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    
+    div#div-footer div#div-iframe {
+        width: 50%;
+    }
+    
+    div#contactos {
+        width: 50%;
+        margin-top: 2em;
+    }
+}

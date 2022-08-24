@@ -1,0 +1,89 @@
+.contenedor__hover--cod-105 {
+  border: rgba(255,255,255,0)!important;
+  border-radius: 0;
+
+  color: #ffffff;
+  height: 7em;
+  width: 6em;
+  
+  margin: 0.18em;
+
+  position: relative;
+  
+  z-index: 2;
+}
+
+.contenedor__hover--cod-105-01 {
+  background: url('/imagenes-heburn/rostro/cod-105/105-01.png') no-repeat;
+  background-size: contain;
+}
+.contenedor__hover--cod-105-02 {
+  background: url('/imagenes-heburn/rostro/cod-105/105-02.png') no-repeat;
+  background-size: contain;
+}
+.contenedor__hover--cod-105-03 {
+  background: url('/imagenes-heburn/rostro/cod-105/105-03.png') no-repeat;
+  background-size: contain;
+}
+.contenedor__hover--cod-105-04 {
+  background: url('/imagenes-heburn/rostro/cod-105/105-04.png') no-repeat;
+  background-size: contain;
+}
+.contenedor__hover--cod-105-05 {
+  background: url('/imagenes-heburn/rostro/cod-105/105-05.png') no-repeat;
+  background-size: contain;
+}
+.contenedor__hover--cod-105-06 {
+  background: url('/imagenes-heburn/rostro/cod-105/105-06.png') no-repeat;
+  background-size: contain;
+}
+/* .contenedor__hover--cod-105-07 {
+  background: url('/imagenes-heburn/rostro/cod-105/105-07.png') no-repeat;
+  background-size: contain;
+} */
+
+.contenedor__hover--cod-105::after {
+  color: rgb(238, 209, 209);
+  
+  font-size: 0.9em;
+  
+  left: 0.8em;
+  position: absolute;
+  top: -2em;
+}
+
+.contenedor__hover--cod-105-01::after {
+  content: '01-Beige Mediano';
+
+  left: 0;
+}
+
+.contenedor__hover--cod-105-02::after {
+  content: '02-Beige Oscuro';
+
+  left: 0;
+}
+
+.contenedor__hover--cod-105-03::after {
+  content: '03-Beige Claro';
+
+  left: 0.2em;
+}
+
+.contenedor__hover--cod-105-04::after {
+  content: '04-Amarillo';
+
+  left: 0.2em;
+}
+
+.contenedor__hover--cod-105-05::after {
+  content: '05-Verde';
+
+  left: 0.2em;
+}
+
+.contenedor__hover--cod-105-06::after {
+  content: '06-Naranja';
+
+  left: 0.2em;
+}

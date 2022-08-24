@@ -1,0 +1,39 @@
+.hover__labios--cuarteto {
+  border-radius: 50%;
+  /* border: 0px solid rgba(255,255,255,0)!important; */
+  color: #ffffff;
+  height: 2em;
+  width: 2em;
+  /* height: 5em;
+  width: 5em; */
+      
+  margin: 0.1em;
+      
+  z-index: 2;
+}
+
+.hover__labios--cuarteto-02 {
+  background: url('/imagenes-heburn/labios/labial-cuarteto/304_Labial cuarteto_02.png') 50% no-repeat;
+  background-size: 600%;
+  /* background-size: 110%; */
+}
+.hover__labios--cuarteto-03 {
+  background: url('/imagenes-heburn/labios/labial-cuarteto/304_Labial cuarteto_03.png') 50% no-repeat;
+  background-size: 600%;
+}
+.hover__labios--cuarteto-04 {
+  background: url('/imagenes-heburn/labios/labial-cuarteto/304_Labial cuarteto_04.png') 50% no-repeat;
+  background-size: 600%;
+}
+.hover__labios--cuarteto-05 {
+  background: url('/imagenes-heburn/labios/labial-cuarteto/304_Labial cuarteto_05.png') 50% no-repeat;
+  background-size: 600%;
+}
+.hover__labios--cuarteto-06 {
+  background: url('/imagenes-heburn/labios/labial-cuarteto/304_Labial cuarteto_06.png') 50% no-repeat;
+  background-size: 600%;
+}
+.hover__labios--cuarteto-08 {
+  background: url('/imagenes-heburn/labios/labial-cuarteto/304_Labial cuarteto_08.png') 50% no-repeat;
+  background-size: 600%;
+}

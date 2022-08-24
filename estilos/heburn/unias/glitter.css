@@ -1,0 +1,43 @@
+/* colores hover glitters*/
+
+.esmalte__hover--glitter {
+  border: rgba(255,255,255,0)!important;
+  border-radius: 0;
+
+  color: #ffffff;
+  height: 8em; /*2.5em pantallas >= 1024px */
+  width: 5em;  /*2.5em pantallas >= 1024px */
+
+  margin: 0em; /*0.5em pantallas >= 1024px */
+
+  position: relative;
+
+  z-index: 2;
+}
+
+.esmalte__hover--glitter-1 {
+  background:  url('/imagenes-heburn/esmaltes/glitter/glitter-1.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--glitter-2 {
+  background:  url('/imagenes-heburn/esmaltes/glitter/glitter-2.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--glitter::after {
+  color: rgb(238, 209, 209);
+  
+  font-size: 0.9em;
+  
+  left: 0em;
+  position: absolute;
+  top: -2em;
+}
+
+.esmalte__hover--glitter-1::after{
+  content: 'Glitter Azul';
+}
+.esmalte__hover--glitter-2::after{
+  content: 'Glitter Oro';
+}

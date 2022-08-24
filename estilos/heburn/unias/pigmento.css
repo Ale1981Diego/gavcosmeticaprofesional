@@ -1,0 +1,107 @@
+/* colores hover pigmentos y gibre para uñas */
+
+.esmalte__img--pigmento, .esmalte__img--gibre {
+  height: 268px;
+  width: auto;
+}
+
+.esmalte__texto--pigmento, .esmalte__texto--gibre {
+  width: 100%;
+}
+
+.esmalte__hover--pigmento, .esmalte__hover--tratamiento {
+  border: rgba(255,255,255,0)!important;
+  border-radius: 0;
+
+  color: #ffffff;
+  height: 8em; /*2em pantallas >= 1024px*/
+  width: 3em; /*2em pantallas >= 1024px*/
+
+  margin: 0.6em;
+
+  position: relative;
+
+  z-index: 2;
+}
+
+.esmalte__hover--pigmento-1 {
+  background:  url('/imagenes-heburn/esmaltes/pigmento/pigmento-1.png') no-repeat;
+  background-size: contain;
+}
+.esmalte__hover--pigmento-2 {
+  background:  url('/imagenes-heburn/esmaltes/pigmento/pigmento-2.png') no-repeat;
+  background-size: contain;
+}
+.esmalte__hover--pigmento-3 {
+  background:  url('/imagenes-heburn/esmaltes/pigmento/pigmento-3.png') no-repeat;
+  background-size: contain;
+}
+.esmalte__hover--pigmento-4 {
+  background:  url('/imagenes-heburn/esmaltes/pigmento/pigmento-4.png') no-repeat;
+  background-size: contain;
+}
+.esmalte__hover--pigmento-5 {
+  background:  url('/imagenes-heburn/esmaltes/pigmento/pigmento-5.png') no-repeat;
+  background-size: contain;
+}
+.esmalte__hover--pigmento-6 {
+  background:  url('/imagenes-heburn/esmaltes/pigmento/pigmento-6.png') no-repeat;
+  background-size: contain;
+}
+/* .esmalte__hover--pigmento-7 {
+  background:  url('/imagenes-heburn/esmaltes/pigmento/pigmento-7.png') no-repeat;
+  background-size: contain;
+} */
+.esmalte__hover--pigmento-8 {
+  background:  url('/imagenes-heburn/esmaltes/pigmento/pigmento-8.png') no-repeat;
+  background-size: contain;
+}
+.esmalte__hover--pigmento-9 {
+  background:  url('/imagenes-heburn/esmaltes/pigmento/pigmento-9.png') no-repeat;
+  background-size: contain;
+}
+.esmalte__hover--pigmento-10 {
+  background:  url('/imagenes-heburn/esmaltes/pigmento/pigmento-10.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--pigmento::after {
+  color: rgb(238, 209, 209);
+  
+  font-size: 0.8em;
+  
+  left: -1em;
+  position: absolute;
+  top: -2em;
+}
+
+.esmalte__hover--pigmento-1::after {
+  content: '51 Blanco';
+}
+.esmalte__hover--pigmento-2::after {
+  content: '52 Negro';
+}
+.esmalte__hover--pigmento-3::after {
+  content: '53 Azul';
+}
+.esmalte__hover--pigmento-4::after {
+  content: '54 Rojo';
+}
+.esmalte__hover--pigmento-5::after {
+  content: '55 Amarillo';
+  left: -1.2em;
+}
+.esmalte__hover--pigmento-6::after {
+  content: '56 Verde';
+}
+.esmalte__hover--pigmento-8::after {
+  content: '58 Naranja';
+  left: -1.2em;
+}
+.esmalte__hover--pigmento-9::after {
+  content: '59 Purpura';
+  left: -1.1em;
+}
+.esmalte__hover--pigmento-10::after {
+  content: '60 Fucsia';
+}

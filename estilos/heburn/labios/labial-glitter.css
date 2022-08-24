@@ -1,0 +1,30 @@
+.hover__labios--glitter {
+  border-radius: 50%;
+      
+  color: #ffffff;
+  height: 1.8em;
+  width: 1.8em;
+      
+  margin: 0.2em;
+      
+  z-index: 2;
+}
+
+.hover__labios--glitter-100 {
+  background: url('/imagenes-heburn/labios/labial-glitter/303-labial-glitter-100.png') 22% 19% no-repeat;
+}
+.hover__labios--glitter-102 {
+  background: url('/imagenes-heburn/labios/labial-glitter/303-labial-glitter-102.png') 22% 19% no-repeat;
+}
+.hover__labios--glitter-105 {
+  background: url('/imagenes-heburn/labios/labial-glitter/303-labial-glitter-105.png') 22% 19% no-repeat;
+}
+.hover__labios--glitter-106 {
+  background: url('/imagenes-heburn/labios/labial-glitter/303-labial-glitter-106.png') 22% 19% no-repeat;
+}
+.hover__labios--glitter-107 {
+  background: url('/imagenes-heburn/labios/labial-glitter/303-labial-glitter-107.png') 22% 19% no-repeat;
+}
+.hover__labios--glitter-108 {
+  background: url('/imagenes-heburn/labios/labial-glitter/303-labial-glitter-108.png') 22% 19% no-repeat;
+}

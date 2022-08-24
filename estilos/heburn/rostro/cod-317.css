@@ -1,0 +1,89 @@
+.contenedor__hover--cod-317 {
+  border: rgba(255,255,255,0)!important;
+  border-radius: 0;
+
+  color: #ffffff;
+  height: 6em;
+  width: 4.5em;
+
+  margin: 0.18em;
+
+  position: relative;
+
+  z-index: 2;
+}
+
+.contenedor__hover--cod-317-1 {
+  background: url('/imagenes-heburn/rostro/cod-317/317-1.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-317-2 {
+  background: url('/imagenes-heburn/rostro/cod-317/317-2.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-317-4 {
+  background: url('/imagenes-heburn/rostro/cod-317/317-4.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-317-6 {
+  background: url('/imagenes-heburn/rostro/cod-317/317-6.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-317-7 {
+  background: url('/imagenes-heburn/rostro/cod-317/317-7.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-317-9 {
+  background: url('/imagenes-heburn/rostro/cod-317/317-9.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-317-10 {
+  background: url('/imagenes-heburn/rostro/cod-317/317-10.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-317-11 {
+  background: url('/imagenes-heburn/rostro/cod-317/317-11.png') no-repeat center;
+  background-size: contain;
+}
+
+.contenedor__hover--cod-317::after {
+  color: rgb(238, 209, 209);
+  
+  font-size: 0.9em;
+  
+  left: 0.8em;
+  position: absolute;
+  top: -1em;
+}
+
+.contenedor__hover--cod-317-1::after {
+  content: 'Color 1';
+}
+
+.contenedor__hover--cod-317-2::after {
+  content: 'Color 2';
+}
+
+.contenedor__hover--cod-317-4::after {
+  content: 'Color 4';
+}
+
+.contenedor__hover--cod-317-6::after {
+  content: 'Color 6';
+}
+
+.contenedor__hover--cod-317-7::after {
+  content: 'Color 7';
+}
+
+.contenedor__hover--cod-317-9::after {
+  content: 'Color 9';
+}
+
+.contenedor__hover--cod-317-10::after {
+  content: 'Color 10';
+}
+
+.contenedor__hover--cod-317-11::after {
+  content: 'Color 11';
+}

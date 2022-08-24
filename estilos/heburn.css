@@ -1,0 +1,243 @@
+.seccion-select {
+  border-bottom: 1px solid #E19438;
+
+  height: 5rem;
+  width: 80%;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: 0 auto;
+}
+
+.seccion-select:focus {
+  outline: none;
+}
+
+.seccion-select__select {
+  border: 1px solid #E19438;
+  border-radius: 0.5em;
+
+  height: 3em;
+  width: 15rem;
+
+  text-transform: uppercase;
+  color: #555;
+
+  margin-bottom: 1rem;
+  padding-left: 1.2em;
+}
+
+.productos {
+  padding: 1rem;
+}
+
+.productos__opciones {
+  display: flex;
+  flex-direction: column;
+}
+
+.productos__contenedor {
+  align-items: center;
+  
+  display: flex;
+  flex-direction: column;
+}
+
+.productos__opciones--titulo {
+  margin-top: 2rem;
+  text-transform: uppercase;
+}
+
+span.subrayado {
+  background-color: #E19438;
+  border-radius: 0.2em;
+
+  display: block;
+  height: 0.3em;
+  width: 30px;
+}
+
+.productos__opciones__contenedor {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.contenedor__labios {
+  height: 560px;
+}
+
+.contenedor__ojos {
+  height: 575px;
+}
+
+.contenedor__rostro {
+  height: 700px; /*768px (breakpoint) contenedor con heigth: 600px*/
+}
+
+.esmalte {
+  height: 600px;
+}
+
+
+
+.contenedor__labios, .contenedor__ojos, .contenedor__rostro, .esmalte {
+  align-items: center;
+
+  border: 1px solid rgba(230, 178, 178, 0.726);
+  border-radius: 0.5em;
+  box-shadow: 0.5em 0.5em 1.5em;
+
+  display: flex;
+  flex-direction: column;
+
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-top: 1rem;
+  padding: 1rem;
+
+  overflow: hidden;
+  position: relative;
+
+  max-width: 320px;
+  width: 100%;
+}
+
+.contenedor__labios--img {
+  height: 260px;
+  width: auto;
+}
+
+.contenedor__ojos--img {
+  height: 280px;
+  width: auto;
+}
+
+.contenedor__ojos--img--sombra {
+  height: 230px;
+  width: auto;
+}
+
+.contenedor__rostro > img {
+  height: 230px;
+  width: auto;
+}
+
+img.contenedor__rostro--cod-116, img.contenedor__rostro--cod-180, img.contenedor__rostro--cod-713 {
+  height: 200px;
+}
+
+.esmalte__img {
+  width: 90px;
+}
+
+.esmalte__img--gel {
+  width: 108px;
+}
+
+.contenedor__labios--titulo, .contenedor__ojos--titulo, .contenedor__rostro--titulo, .esmalte__titulo {
+  text-transform: uppercase;
+}
+
+.contenedor__labios--titulo, .contenedor__ojos--titulo, .contenedor__ojos--texto, .contenedor__rostro--titulo, .contenedor__rostro > p, .esmalte__titulo, .esmalte__texto {
+  margin-top: 1rem;
+}
+
+.contenedor__rostro--top {
+  margin-top: 3rem;
+}
+
+.esmalte__texto--gel {
+  text-align: justify;
+}
+
+.contenedor__labios__hover, .contenedor__ojos__hover,.contenedor__rostro--hover, .contenedor__rostro--hover, .esmalte__hover {
+  background-color: rgba(0,0,0,0.7);
+  border-radius: 0.5em;
+
+  align-items: center;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+
+  left: 0;
+  position: absolute;
+  top: 0;
+
+  height: 100%;
+  width: 100%;
+  
+
+  padding: 1em;
+
+  transform: translateY(105%);
+  transition: all 500ms ease-out;
+}
+
+.contenedor__labios:hover .contenedor__labios__hover {
+  transform: translateY(0);
+}
+
+.contenedor__ojos:hover .contenedor__ojos__hover {
+  transform: translateY(0);
+}
+
+.contenedor__rostro:hover .contenedor__rostro--hover {
+  transform: translateY(0);
+}
+
+.esmalte:hover .esmalte__hover {
+  transform: translateY(0);
+}
+
+.contenedor__labios__hover>div, .contenedor__ojos__hover>div, .contenedor__rostro--hover>div, .esmalte__hover>div {
+  border: 1px solid #fff;
+
+  align-items: center;
+  display: flex;
+  justify-content: center;
+
+  font-weight: bolder;
+
+}
+
+.display-none {
+  display: none!important;
+}
+
+.fa-angles-up {
+  font-size: 1.2em;
+  /* color: rgb(231, 133, 133); */
+  color:rgb(188, 65, 236);
+  position: absolute;
+  bottom: 1.5em;
+  animation: animacion 1.5s infinite normal ease-in-out;
+}
+
+@keyframes animacion {
+  0%, 100% {
+      transform: translateY(0em);
+  }
+
+  50% {
+      transform: translateY(1em)
+  }
+}
+
+.esmalte:hover i.fa-angles-up, .contenedor__labios:hover i.fa-angles-up, .contenedor__ojos:hover i.fa-angles-up, .contenedor__rostro:hover i.fa-angles-up {
+  display: none;
+}
+
+@media screen and (min-width: 
+768px) {
+    .contenedor__rostro {
+        height: 600px;
+    }
+
+    .esmalte {
+      height: 525px;
+    }
+}

@@ -1,0 +1,114 @@
+.contenedor__hover--cod-116 {
+  border: rgba(255,255,255,0)!important;
+  border-radius: 0;
+  
+  color: #ffffff;
+  height: 6em;
+  width: 4em;
+    
+  margin: 0.18em;
+
+  position: relative;
+    
+  z-index: 2;
+}
+
+.contenedor__hover--cod-116-02 {
+  background: url('/imagenes-heburn/rostro/cod-116/116-02-cerrado.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-116-04 {
+  background: url('/imagenes-heburn/rostro/cod-116/116-04-cerrado.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-116-05 {
+  background: url('/imagenes-heburn/rostro/cod-116/116-05-cerrado.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-116-06 {
+  background: url('/imagenes-heburn/rostro/cod-116/116-06-cerrado.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-116-07 {
+  background: url('/imagenes-heburn/rostro/cod-116/116-07-cerrado.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-116-14 {
+  background: url('/imagenes-heburn/rostro/cod-116/116-14-cerrado.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-116-22 {
+  background: url('/imagenes-heburn/rostro/cod-116/116-22-cerrado.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-116-23 {
+  background: url('/imagenes-heburn/rostro/cod-116/116-23-cerrado.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-116-26 {
+  background: url('/imagenes-heburn/rostro/cod-116/116-26-cerrado.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-116-28 {
+  background: url('/imagenes-heburn/rostro/cod-116/116-28-cerrado.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-116-31 {
+  background: url('/imagenes-heburn/rostro/cod-116/116-31-cerrado.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-116-32 {
+  background: url('/imagenes-heburn/rostro/cod-116/116-32-cerrado.png') no-repeat center;
+  background-size: contain;
+}
+/* .contenedor__hover--cod-116-33 {
+  background: url('/imagenes-heburn/rostro/cod-116/116-33-cerrado.png') no-repeat center;
+  background-size: contain;
+} */
+
+.contenedor__hover--cod-116::after {
+  color: rgb(238, 209, 209);
+
+  font-size: 0.9em;
+
+  left: 0.8em;
+  position: absolute;
+  top: -1em;
+}
+
+.contenedor__hover--cod-116-02::after {
+  content: 'Color 2';
+}
+.contenedor__hover--cod-116-04::after {
+  content: 'Color 4';
+}
+.contenedor__hover--cod-116-05::after {
+  content: 'Color 5';
+}
+.contenedor__hover--cod-116-06::after {
+  content: 'Color 6';
+}
+.contenedor__hover--cod-116-07::after {
+  content: 'Color 7';
+}
+.contenedor__hover--cod-116-14::after {
+  content: 'Color 14';
+}
+.contenedor__hover--cod-116-22::after {
+  content: 'Color 22';
+}
+.contenedor__hover--cod-116-23::after {
+  content: 'Color 23';
+}
+.contenedor__hover--cod-116-26::after {
+  content: 'Color 26';
+}
+.contenedor__hover--cod-116-28::after {
+  content: 'Color 28';
+}
+.contenedor__hover--cod-116-31::after {
+  content: 'Color 31';
+}
+.contenedor__hover--cod-116-32::after {
+  content: 'Color 32';
+}

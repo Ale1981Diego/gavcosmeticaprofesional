@@ -1,0 +1,65 @@
+/* poly gel */
+
+.esmalte__img--polyGel {
+  height: 300px;
+  width: auto;
+}
+
+.esmalte__hover--polyGel {
+  border: rgba(255,255,255,0)!important;
+  border-radius: 0;
+
+  color: #ffffff;
+  height: 7em; /*2em pantallas >= 1024px*/
+  width: 6em; /*2em pantallas >= 1024px*/
+
+  margin: 0.5em;
+
+  position: relative;
+
+  z-index: 2;
+}
+
+.esmalte__hover--polyGel-blanco {
+  background:  url('/imagenes-heburn/esmaltes/polyGel/blanco.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--polyGel-coverNatural {
+  background:  url('/imagenes-heburn/esmaltes/polyGel/coverNatural.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--polyGel-cristal {
+  background:  url('/imagenes-heburn/esmaltes/polyGel/cristal.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--polyGel-viaLactea {
+  background:  url('/imagenes-heburn/esmaltes/polyGel/viaLactea.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--polyGel::after {
+  color: rgb(238, 209, 209);
+  
+  font-size: 0.9em;
+  
+  left: 0em;
+  position: absolute;
+  top: -1em;
+}
+
+.esmalte__hover--polyGel-cristal::after {
+  content: '0 Cristal';
+}
+.esmalte__hover--polyGel-viaLactea::after {
+  content: '1 Via Lactea';
+}
+.esmalte__hover--polyGel-blanco::after {
+  content: '2 Blanco';
+}
+.esmalte__hover--polyGel-coverNatural::after {
+  content: '3 Cover Natural';
+  left: -1em;
+}

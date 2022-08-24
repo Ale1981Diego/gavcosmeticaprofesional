@@ -1,0 +1,91 @@
+.contenedor__hover--cod-383 {
+  border: rgba(255,255,255,0)!important;
+  border-radius: 0;
+
+  color: #ffffff;
+  height: 6em;
+  width: 4.5em;
+
+  margin: 0.18em;
+
+  position: relative;
+
+  z-index: 2;
+}
+
+.contenedor__hover--cod-383-1 {
+  background: url('/imagenes-heburn/rostro/cod-383/383_01.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-383-2 {
+  background: url('/imagenes-heburn/rostro/cod-383/383_02.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-383-3 {
+  background: url('/imagenes-heburn/rostro/cod-383/383_03.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-383-4 {
+  background: url('/imagenes-heburn/rostro/cod-383/383_04.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-383-5 {
+  background: url('/imagenes-heburn/rostro/cod-383/383_05.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-383-6 {
+  background: url('/imagenes-heburn/rostro/cod-383/383_06.png') no-repeat center;
+  background-size: contain;
+}
+
+.contenedor__hover--cod-383-20 {
+  background: url('/imagenes-heburn/rostro/cod-383/383_20.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-383-21 {
+  background: url('/imagenes-heburn/rostro/cod-383/383_21.png') no-repeat center;
+  background-size: contain;
+}
+
+.contenedor__hover--cod-383::after {
+  color: rgb(238, 209, 209);
+
+  font-size: 0.9em;
+
+  left: 0.8em;
+  position: absolute;
+  top: -1em;
+}
+.contenedor__hover--cod-383-1::after {
+  content: '1-Blanco';
+}
+
+.contenedor__hover--cod-383-2::after {
+  content: '2-Negro';
+}
+
+.contenedor__hover--cod-383-3::after {
+  content: '3-Rojo';
+}
+
+.contenedor__hover--cod-383-4::after {
+  content: '4-Azul';
+}
+
+.contenedor__hover--cod-383-5::after {
+  content: '5-Amarillo';
+
+  left: 0;
+}
+
+.contenedor__hover--cod-383-6::after {
+  content: '6-Verde';
+}
+
+.contenedor__hover--cod-383-20::after {
+  content: '20-Plata';
+}
+
+.contenedor__hover--cod-383-21::after {
+  content: '21-Oro';
+}

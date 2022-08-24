@@ -1,0 +1,54 @@
+.contenedor__hover--cod-316 {
+  border: rgba(255,255,255,0)!important;
+  border-radius: 0;
+
+  color: #ffffff;
+  height: 6em;
+  width: 4em;
+
+  margin: 0.18em;
+
+  position: relative;
+
+  z-index: 2;
+}
+
+.contenedor__hover--cod-316-1 {
+  background: url('/imagenes-heburn/rostro/cod-316/316-1.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-316-2 {
+  background: url('/imagenes-heburn/rostro/cod-316/316-2.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-316-3 {
+  background: url('/imagenes-heburn/rostro/cod-316/316-3.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-316-4 {
+  background: url('/imagenes-heburn/rostro/cod-316/316-4.png') no-repeat center;
+  background-size: contain;
+}
+
+.contenedor__hover--cod-316::after {
+  color: rgb(238, 209, 209);
+  
+  font-size: 0.9em;
+  
+  left: 0.8em;
+  position: absolute;
+  top: -1em;
+}
+
+.contenedor__hover--cod-316-1::after {
+  content: 'Color 1';
+}
+.contenedor__hover--cod-316-2::after {
+  content: 'Color 2';
+}
+.contenedor__hover--cod-316-3::after {
+  content: 'Color 3';
+}
+.contenedor__hover--cod-316-4::after {
+  content: 'Color 4';
+}

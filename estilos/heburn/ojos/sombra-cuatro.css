@@ -1,0 +1,47 @@
+.contenedor__tonos {
+  border-radius: 50%;
+
+  color: #ffffff;
+  height: 2.5em;
+  width: 2.5em;
+
+  margin: 0.5em;
+
+  z-index: 2;
+}
+
+.contenedor__tonos--50 {
+  background: url('/imagenes-heburn/ojos/sombra/50.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--51 {
+  background: url('/imagenes-heburn/ojos/sombra/51.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--52 {
+  background: url('/imagenes-heburn/ojos/sombra/52.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--53 {
+  background: url('/imagenes-heburn/ojos/sombra/53.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--54 {
+  background: url('/imagenes-heburn/ojos/sombra/54.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--55 {
+  background: url('/imagenes-heburn/ojos/sombra/55.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--56 {
+  background: url('/imagenes-heburn/ojos/sombra/56.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}

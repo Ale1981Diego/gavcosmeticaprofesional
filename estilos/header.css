@@ -1,0 +1,155 @@
+header {
+    width: 100%;
+    height: 5em;
+    background-color: rgba(227, 221, 192, 1);
+    z-index: 3;
+    position: fixed;
+    top: 0;
+}
+
+
+div.div-icono {
+    display: flex;
+    align-items: center;
+    height: 100%;
+}
+
+div.div-icono img {
+    height: 4em;
+    margin-left: 0.5em;
+}
+
+div.menu {
+    height: 100vh;
+    width: 100%;
+    position: absolute;
+    top: 5em;
+    left: 0;
+    background-color: #ffffff;
+    transition: all 500ms ease;
+    transform: translateX(1024px);
+    z-index: 5;
+}
+
+div.menu div.navegacion {
+    width: 100%;
+    height: 100vh;
+}
+
+div.navegacion a {
+    display: block;
+    width: 100%;
+    height: 7em;
+    margin: 0 auto;
+    text-transform: uppercase;
+    text-align: center;
+    line-height: 7em;
+    text-decoration: none;
+    font-weight: bold;
+    color: #4646e9;
+}
+
+div.navegacion.navegacion-marcas a {
+    height: 4em;
+    line-height: 4em;
+}
+
+span.nav {
+    display: block;
+    transform: scaleX(0);
+    height: 2px;
+    background-color: #E19438;
+    margin-bottom: 1em;
+    border-radius: 5px;
+    transition: all 500ms ease;
+}
+
+.navegacion a:hover~span.active {
+    transform: scaleX(0.2);
+}
+
+div.menu-activo {
+    transform: translateX(0);
+}
+
+.div-hamburger {
+    position: absolute;
+    top: 1.5em;
+    right: 0.5em;
+    z-index: 4;
+}
+
+.div-hamburger button {
+    width: 50px;
+    background-color: transparent;
+    border: none;
+    outline: none;
+}
+
+span.line {
+    display: block;
+    width: 25px;
+    height: 2px;
+    border-radius:5px;
+    background-color: black;
+    margin-block: 5px;
+    transition: transform 0.5s, opacity 0.25s;
+}
+
+div.div-hamburger button.active .line:nth-child(1) {
+    transform: translateY(7.5px) rotate(45deg);
+}
+
+div.div-hamburger button.active .line:nth-child(3) {
+    transform: translateY(-7.5px) rotate(-45deg);
+}
+
+@media screen and (min-width: 1024px) {
+    header {
+        display: flex;
+    }
+
+    header.principal {
+        background-color: rgba(227, 221, 192, 0.5);
+    }
+
+    .background {
+        background-color: rgba(227, 221, 192, 1)!important;
+    }
+
+    div.menu {
+        height: 100%;
+        position: static;
+        transform: translateX(0);
+        background-color: transparent;
+        padding-right: 1em;
+    }
+
+    div.menu div.navegacion {
+        display: flex;
+        justify-content: flex-end;
+        height: 100%;
+    }
+
+    div.navegacion a {
+        display: inline;
+        font-size: 0.8em;
+        height: 100%;
+        line-height: 5em;
+        width: auto;
+        margin: 0 0 0 2em;
+    }
+    
+    div.navegacion.navegacion-marcas a {
+        height: 5em;
+        line-height: 5em;
+    }
+
+    .div-hamburger {
+        display: none;
+    }
+
+    span.nav {
+        display: none;
+    }
+}

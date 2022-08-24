@@ -1,0 +1,81 @@
+/* colores hover ultra textura */
+
+.esmalte__hover--textura {
+  border: rgba(255, 255, 255, 0)!important;
+  border-radius: 0;
+
+  color: #ffffff;
+  height: 7em; /*2em pantallas >= 1024px*/
+  width: 5em; /*2em pantallas >= 1024px*/
+
+  margin: 0.5em;
+
+  position: relative;
+
+  z-index: 2;
+}
+
+.esmalte__hover--textura-01 {
+  background:  url('/imagenes-heburn/esmaltes/textura/texturas-01.png') no-repeat;
+  background-size: contain;
+}
+
+/* .esmalte__hover--textura-02{
+  background:  url('/imagenes-heburn/esmaltes/textura/texturas-02.png') 50% 55%, no-repeat;
+}
+
+.esmalte__hover--textura-03 {
+  background:  url('/imagenes-heburn/esmaltes/textura/texturas-03.png') 50% 55%, no-repeat;
+} */
+
+.esmalte__hover--textura-04 {
+  background:  url('/imagenes-heburn/esmaltes/textura/texturas-04.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--textura-05 {
+  background:  url('/imagenes-heburn/esmaltes/textura/texturas-05.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--textura-06 {
+  background:  url('/imagenes-heburn/esmaltes/textura/texturas-06.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--textura-07 {
+  background:  url('/imagenes-heburn/esmaltes/textura/texturas-07.png') no-repeat;
+  background-size: contain;
+}
+
+.esmalte__hover--textura::after {
+  color: rgb(238, 209, 209);
+  
+  font-size: 0.9em;
+  
+  left: 0em;
+  position: absolute;
+  top: -2em;
+}
+
+.esmalte__hover--textura-01::after {
+  content: '1 Negro';
+}
+
+.esmalte__hover--textura-04::after {
+  content: '4 Fucsia';
+}
+
+.esmalte__hover--textura-05::after {
+  content: '5 Violeta';
+  left: -0.5em;
+}
+
+.esmalte__hover--textura-06::after {
+  content: '6 Turquesa';
+  left: -1em;
+}
+
+.esmalte__hover--textura-07::after {
+  content: '7 Rojo';
+}

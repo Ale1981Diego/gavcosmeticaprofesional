@@ -1,0 +1,50 @@
+.contenedor__hover--cod-122 {
+  border: rgba(255,255,255,0)!important;
+  border-radius: 0;
+
+  color: #ffffff;
+  height: 7em;
+  width: 5em;
+
+  margin: 0.18em;
+
+  position: relative;
+
+  z-index: 2;
+}
+
+.contenedor__hover--cod-122-1 {
+  background: url('/imagenes-heburn/rostro/cod-122/122-1.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-122-2 {
+  background: url('/imagenes-heburn/rostro/cod-122/122-2.png') no-repeat center;
+  background-size: contain;
+}
+.contenedor__hover--cod-122-3 {
+  background: url('/imagenes-heburn/rostro/cod-122/122-3.png') no-repeat center;
+  background-size: contain;
+}
+
+.contenedor__hover--cod-122::after {
+  color: rgb(238, 209, 209);
+  
+  font-size: 0.9em;
+  
+  left: 0.8em;
+  position: absolute;
+  top: -2em;
+}
+
+.contenedor__hover--cod-122-1::after {
+  content: '1-Claro';
+}
+
+.contenedor__hover--cod-122-2::after {
+  content: '2-Medio';
+
+}
+
+.contenedor__hover--cod-122-3::after {
+  content: '3-Oscuro';
+}
