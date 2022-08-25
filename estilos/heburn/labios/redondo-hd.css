@@ -2,137 +2,276 @@
   border-radius: 50%;
   
   color: #ffffff;
-  height: 1.5em;
-  width: 1.5em;
+  height: 2em;
+  width: 2em;
   
-  margin: 0.3em;
+  margin: 0.5em 0.7em;
+
+  position: relative;
   
   z-index: 2;
 }
 
 .hover__labios--redondo-cremoso-21{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-21.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-21.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-cremoso-23{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-23.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-23.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-cremoso-24{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-24.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-24.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-cremoso-28{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-28.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-28.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-cremoso-29{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-29.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-29.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-cremoso-30{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-30.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-30.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-cremoso-31{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-31.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-31.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-cremoso-39{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-39.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-39.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-cremoso-43{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-43.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-43.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-cremoso-45{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-45.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-45.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-cremoso-48{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-48.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-48.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-cremoso-59{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-59.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-59.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-cremoso-63{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-63.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-63.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-cremoso-64{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-64.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-64.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-cremoso-68{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-68.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-cremoso-68.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-01{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-01.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-01.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-02{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-02.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-02.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-03{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-03.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-03.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-04{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-04.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-04.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-06{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-06.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-06.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-07{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-07-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-07-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-08{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-08-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-08-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-09{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-09-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-09-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-10{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-10-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-10-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-12{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-12-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-12-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-13{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-13-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-13-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-15{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-15-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-15-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-16{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-16-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-16-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-17{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-17-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-17-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-18{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-18-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-18-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-19{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-19-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-19-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-20{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-20-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-20-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-61{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-61-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-61-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-73{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-73-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-73-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-74{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-74-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-74-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-77{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-77-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-77-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-80{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-80-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-80-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-91{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-91-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-91-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-92{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-92-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-92-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-93{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-93-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-93-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-95{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-95-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-95-min.png') 75% 11% no-repeat;
 }
 .hover__labios--redondo-perlado-96{
-  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-96-min.png') 70% 11% no-repeat;
+  background: url('/imagenes-heburn/labios/redondo-hd/104-perlados-96-min.png') 75% 11% no-repeat;
+}
+
+.hover__labios--redondo::after {
+  color: rgb(238, 209, 209);
+  
+  font-size: 0.7em;
+  
+  left: -1.1em;
+  position: absolute;
+  top: -1.2em;
+}
+
+.hover__labios--redondo-perlado-01::after {
+  content: '01 Perl';
+}
+.hover__labios--redondo-perlado-02::after {
+  content: '02 Perl';
+}
+.hover__labios--redondo-perlado-03::after {
+  content: '03 Perl';
+}
+.hover__labios--redondo-perlado-04::after {
+  content: '04 Perl';
+}
+.hover__labios--redondo-perlado-06::after {
+  content: '06 Perl';
+}
+.hover__labios--redondo-perlado-07::after {
+  content: '07 Perl';
+}
+.hover__labios--redondo-perlado-08::after {
+  content: '08 Perl';
+}
+.hover__labios--redondo-perlado-09::after {
+  content: '09 Perl';
+}
+.hover__labios--redondo-perlado-10::after {
+  content: '10 Perl';
+}
+.hover__labios--redondo-perlado-12::after {
+  content: '12 Perl';
+}
+.hover__labios--redondo-perlado-13::after {
+  content: '13 Perl';
+}
+.hover__labios--redondo-perlado-15::after {
+  content: '15 Perl';
+}
+.hover__labios--redondo-perlado-16::after {
+  content: '16 Perl';
+}
+.hover__labios--redondo-perlado-17::after {
+  content: '17 Perl';
+}
+.hover__labios--redondo-perlado-18::after {
+  content: '18 Perl';
+}
+.hover__labios--redondo-perlado-19::after {
+  content: '19 Perl';
+}
+.hover__labios--redondo-perlado-20::after {
+  content: '20 Perl';
+}
+.hover__labios--redondo-cremoso-21::after {
+  content: '21 Crem';
+}
+.hover__labios--redondo-cremoso-23::after {
+  content: '23 Crem';
+}
+.hover__labios--redondo-cremoso-24::after {
+  content: '24 Crem';
+}
+.hover__labios--redondo-cremoso-28::after {
+  content: '28 Crem';
+}
+.hover__labios--redondo-cremoso-29::after {
+  content: '29 Crem';
+}
+.hover__labios--redondo-cremoso-30::after {
+  content: '30 Crem';
+}
+.hover__labios--redondo-cremoso-31::after {
+  content: '31 Crem';
+}
+.hover__labios--redondo-cremoso-39::after {
+  content: '39 Crem';
+}
+.hover__labios--redondo-cremoso-43::after {
+  content: '43 Crem';
+}
+.hover__labios--redondo-cremoso-45::after {
+  content: '45 Crem';
+}
+.hover__labios--redondo-cremoso-48::after {
+  content: '48 Crem';
+}
+.hover__labios--redondo-cremoso-59::after {
+  content: '59 Crem';
+}
+.hover__labios--redondo-perlado-61::after {
+  content: '61 Perl';
+}
+.hover__labios--redondo-cremoso-63::after {
+  content: '63 Crem';
+}
+.hover__labios--redondo-cremoso-64::after {
+  content: '64 Crem';
+}
+.hover__labios--redondo-cremoso-68::after {
+  content: '68 Crem';
+}
+.hover__labios--redondo-perlado-73::after {
+  content: '73 Perl';
+}
+.hover__labios--redondo-perlado-74::after {
+  content: '74 Perl';
+}
+.hover__labios--redondo-perlado-77::after {
+  content: '77 Perl';
+}
+.hover__labios--redondo-perlado-80::after {
+  content: '80 Perl';
+}
+.hover__labios--redondo-perlado-91::after {
+  content: '91 Perl';
+}
+.hover__labios--redondo-perlado-92::after {
+  content: '92 Perl';
+}
+.hover__labios--redondo-perlado-93::after {
+  content: '93 Perl';
+}
+.hover__labios--redondo-perlado-95::after {
+  content: '95 Perl';
+}
+.hover__labios--redondo-perlado-96::after {
+  content: '96 Perl';
 }

@@ -1,11 +1,14 @@
 .hover__labios--brillo {
-  border-radius: 50%;
+  border: none!important;
+  border-radius: 0;
     
   color: #ffffff;
-  height: 1.6em;
-  width: 1.6em;
+  height: 9em;
+  width: 6em;
     
   margin: 0.18em;
+
+  position: relative;
     
   z-index: 2;
 }
@@ -14,17 +17,21 @@
 
 .hover__labios--brillo-00 {
   background: url('/imagenes-heburn/labios/brillo-aplicador/183-Brillo-labial-con-aplicador-00-min.png') 24% 52% no-repeat;
+  background-size: contain;
 }
 .hover__labios--brillo-01 {
   background: url('/imagenes-heburn/labios/brillo-aplicador/183-Brillo-labial-con-aplicador-01-min.png') 24% 52% no-repeat;
+  background-size: contain;
 }
 .hover__labios--brillo-02 {
   background: url('/imagenes-heburn/labios/brillo-aplicador/183-Brillo-labial-con-aplicador-02-min.png') 24% 52% no-repeat;
+  background-size: contain;
 }
 .hover__labios--brillo-03 {
   background: url('/imagenes-heburn/labios/brillo-aplicador/183-Brillo-labial-con-aplicador-03-min.png') 24% 52% no-repeat;
+  background-size: contain;
 }
-.hover__labios--brillo-04 {
+/* .hover__labios--brillo-04 {
   background: url('/imagenes-heburn/labios/brillo-aplicador/183-Brillo-labial-con-aplicador-04-min.png') 24% 52% no-repeat;
 }
 .hover__labios--brillo-05 {
@@ -32,4 +39,27 @@
 }
 .hover__labios--brillo-06 {
   background: url('/imagenes-heburn/labios/brillo-aplicador/183-Brillo-labial-con-aplicador-06-min.png') 24% 52% no-repeat;
+} */
+
+.hover__labios--brillo::after {
+  color: rgb(238, 209, 209);
+  
+  font-size: 0.9em;
+  
+  left: 0em;
+  position: absolute;
+  top: -2em;
+}
+
+.hover__labios--brillo-00::after{
+  content: '00 Laca';
+}
+.hover__labios--brillo-01::after{
+  content: '01 Transp. c/Glitter';
+}
+.hover__labios--brillo-02::after{
+  content: '02 Rosa';
+}
+.hover__labios--brillo-03::after{
+  content: '03 Caramelo';
 }

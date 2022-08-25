@@ -1,6 +1,8 @@
 .contenedor__ojos__hover--sombra > div {
-  height: 1.8em;
-  width: 1.8em;
+  height: 2em;
+  width: 2em;
+
+  position: relative;
 }
 
 .contenedor__tonos--313-matte-53 {
@@ -102,8 +104,8 @@
   background: url('/imagenes-heburn/ojos/sombra/313-satinado-12.png') center 35%;
   background-repeat: no-repeat;
 }
-.contenedor__tonos--313-satin-13 {
-  background: url('/imagenes-heburn/ojos/sombra/313-satinado-13.png') center 35%;
+.contenedor__tonos--313-satin-33 {
+  background: url('/imagenes-heburn/ojos/sombra/313-satinado-33.png') center 35%;
   background-repeat: no-repeat;
 }
 .contenedor__tonos--313-satin-14 {
@@ -173,4 +175,144 @@
 .contenedor__tonos--313-satin-52 {
   background: url('/imagenes-heburn/ojos/sombra/313-satinado-52.png') center 35%;
   background-repeat: no-repeat;
+}
+
+.contenedor__ojos__hover--sombra>div::after {
+  color: rgb(238, 209, 209);
+  font-size: 0.9em;
+  
+  left: 0.5em;
+  position: absolute;
+  top: -1em;
+}
+
+.contenedor__tonos--313-matte-53::after {
+  content: '53';
+}
+.contenedor__tonos--313-matte-54::after {
+  content: '54';
+}
+.contenedor__tonos--313-matte-55::after {
+  content: '55';
+}
+.contenedor__tonos--313-matte-56::after {
+  content: '56';
+}
+.contenedor__tonos--313-matte-57::after {
+  content: '57';
+}
+.contenedor__tonos--313-matte-58::after {
+  content: '58';
+}
+.contenedor__tonos--313-matte-60::after {
+  content: '60';
+}
+.contenedor__tonos--313-matte-61::after {
+  content: '61';
+}
+.contenedor__tonos--313-matte-62::after {
+  content: '62';
+}
+.contenedor__tonos--313-matte-63::after {
+  content: '63';
+}
+.contenedor__tonos--313-matte-64::after {
+  content: '64';
+}
+.contenedor__tonos--313-matte-65::after {
+  content: '65';
+}
+.contenedor__tonos--313-matte-bm::after {
+  content: 'BM';
+}
+
+.contenedor__tonos--313-satin-1::after {
+  content: '01';
+}
+.contenedor__tonos--313-satin-2::after {
+  content: '02';
+}
+.contenedor__tonos--313-satin-3::after {
+  content: '03';
+}
+.contenedor__tonos--313-satin-4::after {
+  content: '04';
+}
+.contenedor__tonos--313-satin-5::after {
+  content: '05';
+}
+.contenedor__tonos--313-satin-6::after {
+  content: '06';
+}
+.contenedor__tonos--313-satin-7::after {
+  content: '07';
+}
+.contenedor__tonos--313-satin-8::after {
+  content: '08';
+}
+.contenedor__tonos--313-satin-9::after {
+  content: '09';
+}
+.contenedor__tonos--313-satin-10::after {
+  content: '10';
+}
+.contenedor__tonos--313-satin-11::after {
+  content: '11';
+}
+.contenedor__tonos--313-satin-12::after {
+  content: '12';
+}
+.contenedor__tonos--313-satin-14::after {
+  content: '14';
+}
+.contenedor__tonos--313-satin-15::after {
+  content: '15';
+}
+.contenedor__tonos--313-satin-16::after {
+  content: '16';
+}
+.contenedor__tonos--313-satin-17::after {
+  content: '17';
+}
+.contenedor__tonos--313-satin-18::after {
+  content: '18';
+}
+.contenedor__tonos--313-satin-19::after {
+  content: '19';
+}
+.contenedor__tonos--313-satin-26::after {
+  content: '26';
+}
+.contenedor__tonos--313-satin-28::after {
+  content: '28';
+}
+.contenedor__tonos--313-satin-29::after {
+  content: '29';
+}
+.contenedor__tonos--313-satin-31::after {
+  content: '31';
+}
+.contenedor__tonos--313-satin-32::after {
+  content: '32';
+}
+.contenedor__tonos--313-satin-33::after {
+  content: '33';
+}
+.contenedor__tonos--313-satin-34::after {
+  content: '34';
+}
+.contenedor__tonos--313-satin-35::after {
+  content: '35';
+}
+.contenedor__tonos--313-satin-36::after {
+  content: '36';
+}
+.contenedor__tonos--313-satin-37::after {
+  content: '37';
+}
+.contenedor__tonos--313-satin-51::after {
+  content: '51';
+}
+.contenedor__tonos--313-satin-52::after {
+  content: '52';
 }

@@ -1,30 +1,68 @@
 .hover__labios--glitter {
-  border-radius: 50%;
+  border: none!important;
+  border-radius: 0%;
       
   color: #ffffff;
-  height: 1.8em;
-  width: 1.8em;
+  height: 7em;
+  width: 5em;
       
   margin: 0.2em;
+
+  position: relative;
       
   z-index: 2;
 }
 
-.hover__labios--glitter-100 {
-  background: url('/imagenes-heburn/labios/labial-glitter/303-labial-glitter-100.png') 22% 19% no-repeat;
+.hover__labios--glitter-230 {
+  background: url('/imagenes-heburn/labios/labial-glitter/303-labial-glitter-230.png') no-repeat;
+  background-size: contain;
 }
-.hover__labios--glitter-102 {
-  background: url('/imagenes-heburn/labios/labial-glitter/303-labial-glitter-102.png') 22% 19% no-repeat;
+.hover__labios--glitter-231 {
+  background: url('/imagenes-heburn/labios/labial-glitter/303-labial-glitter-231.png') no-repeat;
+  background-size: contain;
 }
-.hover__labios--glitter-105 {
-  background: url('/imagenes-heburn/labios/labial-glitter/303-labial-glitter-105.png') 22% 19% no-repeat;
+.hover__labios--glitter-232 {
+  background: url('/imagenes-heburn/labios/labial-glitter/303-labial-glitter-232.png') no-repeat;
+  background-size: contain;
 }
-.hover__labios--glitter-106 {
-  background: url('/imagenes-heburn/labios/labial-glitter/303-labial-glitter-106.png') 22% 19% no-repeat;
+.hover__labios--glitter-233 {
+  background: url('/imagenes-heburn/labios/labial-glitter/303-labial-glitter-233.png') no-repeat;
+  background-size: contain;
 }
-.hover__labios--glitter-107 {
-  background: url('/imagenes-heburn/labios/labial-glitter/303-labial-glitter-107.png') 22% 19% no-repeat;
+.hover__labios--glitter-234 {
+  background: url('/imagenes-heburn/labios/labial-glitter/303-labial-glitter-234.png') no-repeat;
+  background-size: contain;
 }
-.hover__labios--glitter-108 {
-  background: url('/imagenes-heburn/labios/labial-glitter/303-labial-glitter-108.png') 22% 19% no-repeat;
+.hover__labios--glitter-235 {
+  background: url('/imagenes-heburn/labios/labial-glitter/303-labial-glitter-235.png') no-repeat;
+  background-size: contain;
+}
+
+.hover__labios--glitter::after {
+  color: rgb(238, 209, 209);
+  
+  font-size: 0.9em;
+  
+  left: 0em;
+  position: absolute;
+  top: -2em;
+}
+
+.hover__labios--glitter-230::after{
+  content: '230 Plata';
+}
+.hover__labios--glitter-231::after{
+  content: '231 Oro';
+}
+.hover__labios--glitter-232::after{
+  content: '232 Fucsia';
+}
+.hover__labios--glitter-233::after{
+  content: '233 Rojo';
+}
+.hover__labios--glitter-234::after{
+  content: '234 Negro';
+}
+.hover__labios--glitter-235::after{
+  content: '235 Azul';
 }

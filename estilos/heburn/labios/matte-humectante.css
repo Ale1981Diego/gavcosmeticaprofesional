@@ -1,30 +1,70 @@
 .hover__labios--matte {
-  border-radius: 50%;
+  border: none!important;
+  border-radius: 0%;
       
   color: #ffffff;
-  height: 1.8em;
-  width: 1.8em;
+  height: 8em;
+  width: 5em;
       
-  margin: 0.2em;
+  margin: 0.2em 0.5em;
+
+  position: relative;
       
   z-index: 2;
 }
 
 .hover__labios--matte-01 {
-  background: url('/imagenes-heburn/labios/matte-humectante/252-01.png') 67% 18% no-repeat;
+  background: url('/imagenes-heburn/labios/matte-humectante/252-01.png')no-repeat;
+  background-size: contain;
 }
 .hover__labios--matte-02 {
-  background: url('/imagenes-heburn/labios/matte-humectante/252-02.png') 75% 18% no-repeat;
+  background: url('/imagenes-heburn/labios/matte-humectante/252-02.png')no-repeat;
+  background-size: contain;
 }
 .hover__labios--matte-03 {
-  background: url('/imagenes-heburn/labios/matte-humectante/252-03.png') 75% 18% no-repeat;
+  background: url('/imagenes-heburn/labios/matte-humectante/252-03.png')no-repeat;
+  background-size: contain;
 }
 .hover__labios--matte-04 {
-  background: url('/imagenes-heburn/labios/matte-humectante/252-04.png') 75% 18% no-repeat;
+  background: url('/imagenes-heburn/labios/matte-humectante/252-04.png')no-repeat;
+  background-size: contain;
 }
 .hover__labios--matte-05 {
-  background: url('/imagenes-heburn/labios/matte-humectante/252-05.png') 75% 18% no-repeat;
+  background: url('/imagenes-heburn/labios/matte-humectante/252-05.png')no-repeat;
+  background-size: contain;
 }
 .hover__labios--matte-06 {
-  background: url('/imagenes-heburn/labios/matte-humectante/252-06.png') 75% 18% no-repeat;
+  background: url('/imagenes-heburn/labios/matte-humectante/252-06.png')no-repeat;
+  background-size: contain;
+}
+
+.hover__labios--matte::after {
+  color: rgb(238, 209, 209);
+  
+  font-size: 0.9em;
+  
+  left: 0.5em;
+  position: absolute;
+  top: -2em;
+}
+
+.hover__labios--matte-01::after {
+  content: '01 Uva';
+}
+.hover__labios--matte-02::after {
+  content: '02 Rojo';
+}
+.hover__labios--matte-03::after {
+  content: '03 Capuchino';
+  left: -1em;
+}
+.hover__labios--matte-04::after {
+  content: '04 Rosa Viejo';
+  left: -1em;
+}
+.hover__labios--matte-05::after {
+  content: '05 Fucsia';
+}
+.hover__labios--matte-06::after {
+  content: '06 Nude';
 }
