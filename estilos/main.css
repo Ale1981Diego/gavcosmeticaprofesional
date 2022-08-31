@@ -117,9 +117,13 @@ div.nosotros .nosotros-img img {
     width: 300px;
     height: 200px;
     margin: 1em auto 0 auto;
-    padding: 2.5em 1em 1em 1em;
+    padding: 1.5em 1em 1em 1em;
     border-radius: 0.5em;
     transition: all 500ms ease-in-out;
+}
+
+#mk-icono div.extra {
+    padding-top: 2.5em;
 }
 
 #mk-icono div:hover {
@@ -135,6 +139,11 @@ div.nosotros .nosotros-img img {
 
 #mk-icono div img.img-width {
     width: 200px;
+}
+
+#mk-icono div img.hunter {
+    height: 150px;
+    width: auto;
 }
 
 div.llamada {
@@ -211,7 +220,7 @@ div.icono-llamada .fa-phone, .fa-arrow-up {
 
     #mk-icono {
         display: grid;
-        grid-template-columns: 210px 210px 210px;
+        grid-template-columns: 250px 250px 250px;
         grid-template-rows: 200px 200px 200px;
         gap: 1em;
         align-items: center;
@@ -222,16 +231,15 @@ div.icono-llamada .fa-phone, .fa-arrow-up {
 
     #mk-icono div {
         border:1px solid pink;
-        width: 210px;
-        height: 150px;
-        padding: 2.5em 1em 0 1em;
+        width: 250px;
+        height: 200px;
         border-radius: 0.5em;
         transition: all 500ms ease-in-out;
     }
 
     #mk-icono div img {
         display: block;
-        width: 150px;
+        width: 200px;
         margin: 0 auto;
     }
 
@@ -264,7 +272,6 @@ div.icono-llamada .fa-phone, .fa-arrow-up {
         border:1px solid pink;
         width: 300px;
         height: 200px;
-        padding: 2.5em 1em 0 1em;
         border-radius: 0.5em;
         transition: all 500ms ease-in-out;
     }

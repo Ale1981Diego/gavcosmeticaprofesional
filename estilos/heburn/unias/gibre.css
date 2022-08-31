@@ -4,16 +4,18 @@
   border-radius: 50%;
 
   color: #ffffff;
-  height: 2em; /*2.5em pantallas >= 1024px*/
-  width: 2em; /*2.5em pantallas >= 1024px*/
+  height: 3em; /*2.5em pantallas >= 1024px*/
+  width: 3em; /*2.5em pantallas >= 1024px*/
 
-  margin: 0.5em;
+  margin: 0.5em 0.3em;
+
+  position: relative;
 
   z-index: 2;
 }
 
 .esmalte__hover--gibre-1 {
-  background:  url('/imagenes-heburn/esmaltes/gibre-1342/gibre-1.png') 50% 50%, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gibre-1342/gibre-1.png') 50% 50% no-repeat;
 }
 .esmalte__hover--gibre-2 {
   background:  url('/imagenes-heburn/esmaltes/gibre-1342/gibre-2.png') 50% 50%, no-repeat;
@@ -61,47 +63,169 @@
   background:  url('/imagenes-heburn/esmaltes/gibre-1342/gibre-16.png') 50% 50%, no-repeat;
 }
 .esmalte__hover--gibre-17 {
-  background:  url('/imagenes-heburn/esmaltes/gibre-1342/gibre-17.png') 50% 50%, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/glitter-1342/gibre-17.png') 50% 50%, no-repeat;
 }
 .esmalte__hover--gibre-18 {
-  background:  url('/imagenes-heburn/esmaltes/gibre-1342/gibre-18.png') 50% 50%, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/glitter-1342/gibre-18.png') 50% 50%, no-repeat;
 }
 .esmalte__hover--gibre-19 {
-  background:  url('/imagenes-heburn/esmaltes/gibre-1342/gibre-19.png') 50% 50%, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/glitter-1342/gibre-19.png') 50% 50%, no-repeat;
 }
 .esmalte__hover--gibre-20 {
-  background:  url('/imagenes-heburn/esmaltes/gibre-1342/gibre-20.png') 50% 50%, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/glitter-1342/gibre-20.png') 50% 50%, no-repeat;
 }
 .esmalte__hover--gibre-21 {
-  background:  url('/imagenes-heburn/esmaltes/gibre-1342/gibre-21.png') 50% 50%, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/glitter-1342/gibre-21.png') 50% 50%, no-repeat;
 }
 .esmalte__hover--gibre-22 {
-  background:  url('/imagenes-heburn/esmaltes/gibre-1342/gibre-22.png') 50% 50%, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/glitter-1342/gibre-22.png') 50% 50%, no-repeat;
 }
 .esmalte__hover--gibre-23 {
-  background:  url('/imagenes-heburn/esmaltes/gibre-1342/gibre-23.png') 50% 50%, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/glitter-1342/gibre-23.png') 50% 50%, no-repeat;
 }
 .esmalte__hover--gibre-24 {
-  background:  url('/imagenes-heburn/esmaltes/gibre-1342/gibre-24.png') 50% 50%, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/glitter-1342/gibre-24.png') 50% 50%, no-repeat;
 }
 .esmalte__hover--gibre-25 {
-  background:  url('/imagenes-heburn/esmaltes/gibre-1342/gibre-25.png') 50% 50%, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/glitter-1342/gibre-25.png') 50% 50%, no-repeat;
 }
 .esmalte__hover--gibre-26 {
-  background:  url('/imagenes-heburn/esmaltes/gibre-1342/gibre-26.png') 50% 50%, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/glitter-1342/gibre-26.png') 50% 50%, no-repeat;
 }
 .esmalte__hover--gibre-27 {
-  background:  url('/imagenes-heburn/esmaltes/gibre-1342/gibre-27.png') 50% 50%, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/glitter-1342/gibre-27.png') 50% 50%, no-repeat;
 }
 .esmalte__hover--gibre-28 {
-  background:  url('/imagenes-heburn/esmaltes/gibre-1342/gibre-28.png') 50% 50%, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/glitter-1342/gibre-28.png') 50% 50%, no-repeat;
 }
 .esmalte__hover--gibre-29 {
-  background:  url('/imagenes-heburn/esmaltes/gibre-1342/gibre-29.png') 50% 50%, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/glitter-1342/gibre-29.png') 50% 50%, no-repeat;
 }
 .esmalte__hover--gibre-30 {
-  background:  url('/imagenes-heburn/esmaltes/gibre-1342/gibre-30.png') 50% 50%, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/glitter-1342/gibre-30.png') 50% 50%, no-repeat;
 }
 .esmalte__hover--gibre-31 {
-  background:  url('/imagenes-heburn/esmaltes/gibre-1342/gibre-31.png') 50% 50%, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/glitter-1342/gibre-31.png') 50% 50%, no-repeat;
+}
+
+.esmalte__hover--gibre::after {
+  color: rgb(238, 209, 209);
+  
+  font-size: 0.7em;
+  
+  left: 0.5em;
+  position: absolute;
+  top: -2.2em;
+}
+
+.esmalte__hover--gibre-1::after {
+  content: 'Blanco';
+}
+.esmalte__hover--gibre-2::after {
+  content: 'Negro';
+}
+.esmalte__hover--gibre-3::after {
+  content: 'Plata';
+}
+.esmalte__hover--gibre-4::after {
+  content: 'Oro';
+}
+.esmalte__hover--gibre-5::after {
+  content: 'Violeta';
+  /* left: -0.5em; */
+}
+.esmalte__hover--gibre-6::after {
+  content: 'Rosa';
+}
+.esmalte__hover--gibre-7::after {
+  content: 'Azul';
+}
+.esmalte__hover--gibre-8::after {
+  content: 'Fucsia';
+}
+.esmalte__hover--gibre-9::after {
+  content: 'Marron';
+  /* left: -0.5em; */
+}
+.esmalte__hover--gibre-10::after {
+  content: 'Rojo';
+}
+.esmalte__hover--gibre-11::after {
+  content: 'Verde';
+}
+.esmalte__hover--gibre-12::after {
+  content:'Rosa Oscuro';
+}
+.esmalte__hover--gibre-13::after {
+  content: 'Azul Turquesa';
+  /* left: -0.7em; */
+}
+.esmalte__hover--gibre-14::after {
+  content: 'Salmon';
+  /* left: -1em; */
+}
+.esmalte__hover--gibre-15::after {
+  content: 'Amarillo Fluo';
+  /* left: -0.7em; */
+}
+.esmalte__hover--gibre-16::after {
+  content: 'Verde Fluo';
+  /* left: -1.8em; */
+}
+.esmalte__hover--gibre-17::after {
+  content: 'Multicolor';
+  /* left: -1.6em; */
+}
+.esmalte__hover--gibre-18::after {
+  content: 'Estrella Azul';
+  /* left: -0.5em; */
+}
+.esmalte__hover--gibre-19::after {
+  content: 'Estrella Oro';
+  /* left: -0.5em; */
+}
+.esmalte__hover--gibre-20::after {
+  content: 'Estrella Verde';
+  /* left: -1em; */
+}
+.esmalte__hover--gibre-21::after {
+  content: 'Hologr. Rojo';
+  /* left: -0.5em; */
+}
+.esmalte__hover--gibre-22::after {
+  content: 'Estrella Plata';
+  /* left: -0.5em; */
+}
+.esmalte__hover--gibre-23::after {
+  content: 'Strass Surtido';
+  /* left: -0.5em; */
+}
+.esmalte__hover--gibre-24::after {
+  content: 'Perla';
+}
+.esmalte__hover--gibre-25::after {
+  content: 'Perla Lagrima';
+}
+.esmalte__hover--gibre-26::after {
+  content: 'Corazon Rosa';
+  /* left: -1em; */
+}
+.esmalte__hover--gibre-27::after {
+  content: 'Corazon Violeta';
+  /* left: -0.8em; */
+}
+.esmalte__hover--gibre-28::after {
+  content: 'Corazon Oro';
+  /* left: -0.8em; */
+}
+.esmalte__hover--gibre-29::after {
+  content: 'Corazon Turquesa';
+  /* left: -0.8em; */
+}
+.esmalte__hover--gibre-30::after {
+  content: 'Pinos Azules';
+}
+.esmalte__hover--gibre-31::after {
+  content: 'Hologr. Azul';
+  /* left: -0.8em; */
 }

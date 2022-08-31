@@ -2,46 +2,368 @@
   border-radius: 50%;
 
   color: #ffffff;
-  height: 2.5em;
-  width: 2.5em;
+  height: 2em;
+  width: 2em;
 
   margin: 0.5em;
+
+  position: relative;
 
   z-index: 2;
 }
 
-.contenedor__tonos--50 {
-  background: url('/imagenes-heburn/ojos/sombra/50.png') center 50%;
+.contenedor__tonos--cuarteto-2 {
+  background: url('/imagenes-heburn/ojos/sombra/315-2.png') center 50%;
   background-repeat: no-repeat;
   background-size: 600%;
 }
-.contenedor__tonos--51 {
-  background: url('/imagenes-heburn/ojos/sombra/51.png') center 50%;
+.contenedor__tonos--cuarteto-3 {
+  background: url('/imagenes-heburn/ojos/sombra/315-3.png') center 50%;
   background-repeat: no-repeat;
   background-size: 600%;
 }
-.contenedor__tonos--52 {
-  background: url('/imagenes-heburn/ojos/sombra/52.png') center 50%;
+.contenedor__tonos--cuarteto-4 {
+  background: url('/imagenes-heburn/ojos/sombra/315-4.png') center 50%;
   background-repeat: no-repeat;
   background-size: 600%;
 }
-.contenedor__tonos--53 {
-  background: url('/imagenes-heburn/ojos/sombra/53.png') center 50%;
+.contenedor__tonos--cuarteto-5 {
+  background: url('/imagenes-heburn/ojos/sombra/315-5.png') center 50%;
   background-repeat: no-repeat;
   background-size: 600%;
 }
-.contenedor__tonos--54 {
-  background: url('/imagenes-heburn/ojos/sombra/54.png') center 50%;
+.contenedor__tonos--cuarteto-6 {
+  background: url('/imagenes-heburn/ojos/sombra/315-6.png') center 50%;
   background-repeat: no-repeat;
   background-size: 600%;
 }
-.contenedor__tonos--55 {
-  background: url('/imagenes-heburn/ojos/sombra/55.png') center 50%;
+.contenedor__tonos--cuarteto-7 {
+  background: url('/imagenes-heburn/ojos/sombra/315-7.png') center 50%;
   background-repeat: no-repeat;
   background-size: 600%;
 }
-.contenedor__tonos--56 {
-  background: url('/imagenes-heburn/ojos/sombra/56.png') center 50%;
+.contenedor__tonos--cuarteto-8 {
+  background: url('/imagenes-heburn/ojos/sombra/315-8.png') center 50%;
   background-repeat: no-repeat;
   background-size: 600%;
+}
+.contenedor__tonos--cuarteto-9 {
+  background: url('/imagenes-heburn/ojos/sombra/315-9.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-10 {
+  background: url('/imagenes-heburn/ojos/sombra/315-10.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-11 {
+  background: url('/imagenes-heburn/ojos/sombra/315-11.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-12 {
+  background: url('/imagenes-heburn/ojos/sombra/315-12.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-14 {
+  background: url('/imagenes-heburn/ojos/sombra/315-14.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-15 {
+  background: url('/imagenes-heburn/ojos/sombra/315-15.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-20 {
+  background: url('/imagenes-heburn/ojos/sombra/315-20.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-22 {
+  background: url('/imagenes-heburn/ojos/sombra/315-22.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-23 {
+  background: url('/imagenes-heburn/ojos/sombra/315-23.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-24 {
+  background: url('/imagenes-heburn/ojos/sombra/315-24.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-25 {
+  background: url('/imagenes-heburn/ojos/sombra/315-25.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-26 {
+  background: url('/imagenes-heburn/ojos/sombra/315-26.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-27 {
+  background: url('/imagenes-heburn/ojos/sombra/315-27.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-28 {
+  background: url('/imagenes-heburn/ojos/sombra/315-28.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-29 {
+  background: url('/imagenes-heburn/ojos/sombra/315-29.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-30 {
+  background: url('/imagenes-heburn/ojos/sombra/315-30.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-31 {
+  background: url('/imagenes-heburn/ojos/sombra/315-31.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-32 {
+  background: url('/imagenes-heburn/ojos/sombra/315-32.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-34 {
+  background: url('/imagenes-heburn/ojos/sombra/315-34.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-35 {
+  background: url('/imagenes-heburn/ojos/sombra/315-35.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-39 {
+  background: url('/imagenes-heburn/ojos/sombra/315-39.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-40 {
+  background: url('/imagenes-heburn/ojos/sombra/315-40.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-41 {
+  background: url('/imagenes-heburn/ojos/sombra/315-41.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-42 {
+  background: url('/imagenes-heburn/ojos/sombra/315-42.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-43 {
+  background: url('/imagenes-heburn/ojos/sombra/315-43.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-44 {
+  background: url('/imagenes-heburn/ojos/sombra/315-44.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-45 {
+  background: url('/imagenes-heburn/ojos/sombra/315-45.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-46 {
+  background: url('/imagenes-heburn/ojos/sombra/315-46.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-48 {
+  background: url('/imagenes-heburn/ojos/sombra/315-48.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-49 {
+  background: url('/imagenes-heburn/ojos/sombra/315-49.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-50 {
+  background: url('/imagenes-heburn/ojos/sombra/315-50.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-60 {
+  background: url('/imagenes-heburn/ojos/sombra/315-60.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-61 {
+  background: url('/imagenes-heburn/ojos/sombra/315-61.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-62 {
+  background: url('/imagenes-heburn/ojos/sombra/315-62.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-63 {
+  background: url('/imagenes-heburn/ojos/sombra/315-63.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+.contenedor__tonos--cuarteto-64 {
+  background: url('/imagenes-heburn/ojos/sombra/315-64.png') center 50%;
+  background-repeat: no-repeat;
+  background-size: 600%;
+}
+
+.contenedor__tonos--cuarteto::after {
+  color: rgb(238, 209, 209);
+  
+  font-size: 0.9em;
+
+  left: 0.5em;
+  position: absolute;
+  top: -1em;
+}
+
+.contenedor__tonos--cuarteto-2::after {
+  content: '02';
+}
+.contenedor__tonos--cuarteto-3::after {
+  content: '03';
+}
+.contenedor__tonos--cuarteto-4::after {
+  content: '04';
+}
+.contenedor__tonos--cuarteto-5::after {
+  content: '05';
+}
+.contenedor__tonos--cuarteto-6::after {
+  content: '06';
+}
+.contenedor__tonos--cuarteto-7::after {
+  content: '07';
+}
+.contenedor__tonos--cuarteto-8::after {
+  content: '08';
+}
+.contenedor__tonos--cuarteto-9::after {
+  content: '09';
+}
+.contenedor__tonos--cuarteto-10::after {
+  content: '10';
+}
+.contenedor__tonos--cuarteto-11::after {
+  content: '11';
+}
+.contenedor__tonos--cuarteto-12::after {
+  content: '12';
+}
+.contenedor__tonos--cuarteto-14::after {
+  content: '14';
+}
+.contenedor__tonos--cuarteto-15::after {
+  content: '15';
+}
+.contenedor__tonos--cuarteto-20::after {
+  content: '20';
+}
+.contenedor__tonos--cuarteto-22::after {
+  content: '22';
+}
+.contenedor__tonos--cuarteto-23::after {
+  content: '23';
+}
+.contenedor__tonos--cuarteto-24::after {
+  content: '24';
+}
+.contenedor__tonos--cuarteto-25::after {
+  content: '25';
+}
+.contenedor__tonos--cuarteto-26::after {
+  content: '26';
+}
+.contenedor__tonos--cuarteto-27::after {
+  content: '27';
+}
+.contenedor__tonos--cuarteto-28::after {
+  content: '28';
+}
+.contenedor__tonos--cuarteto-29::after {
+  content: '29';
+}
+.contenedor__tonos--cuarteto-30::after {
+  content: '30';
+}
+.contenedor__tonos--cuarteto-31::after {
+  content: '31';
+}
+.contenedor__tonos--cuarteto-32::after {
+  content: '32';
+}
+.contenedor__tonos--cuarteto-34::after {
+  content: '34';
+}
+.contenedor__tonos--cuarteto-35::after {
+  content: '35';
+}
+.contenedor__tonos--cuarteto-39::after {
+  content: '39';
+}
+.contenedor__tonos--cuarteto-40::after {
+  content: '40';
+}
+.contenedor__tonos--cuarteto-41::after {
+  content: '41';
+}
+.contenedor__tonos--cuarteto-42::after {
+  content: '42';
+}
+.contenedor__tonos--cuarteto-43::after {
+  content: '43';
+}
+.contenedor__tonos--cuarteto-44::after {
+  content: '44';
+}
+.contenedor__tonos--cuarteto-45::after {
+  content: '45';
+}
+.contenedor__tonos--cuarteto-46::after {
+  content: '46';
+}
+.contenedor__tonos--cuarteto-48::after {
+  content: '48';
+}
+.contenedor__tonos--cuarteto-49::after {
+  content: '49';
+}
+.contenedor__tonos--cuarteto-50::after {
+  content: '50';
+}
+.contenedor__tonos--cuarteto-60::after {
+  content: '60';
+}
+.contenedor__tonos--cuarteto-61::after {
+  content: '61';
+}
+.contenedor__tonos--cuarteto-62::after {
+  content: '62';
+}
+.contenedor__tonos--cuarteto-63::after {
+  content: '63';
+}
+.contenedor__tonos--cuarteto-64::after {
+  content: '64';
 }

@@ -9,185 +9,361 @@
   border-radius: 50%;
     
   color: #ffffff;
-  height: 1.5em; /*1.8em tamaño de pantalla >= 1024px*/
-  width: 1.5em;  /*1.8em tamaño de pantalla >= 1024px*/
+  height: 1.8em; /*1.8em tamaño de pantalla >= 1024px*/
+  width: 1.8em;  /*1.8em tamaño de pantalla >= 1024px*/
     
-  margin: 0.3em;
+  margin: 0.7em 0.7em;
+
+  position: relative;
     
   z-index: 2;
 }
   
 .esmalte__hover--semipermanente-1 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/1_Coral.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/1_Coral.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-2 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/2_Uva.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/2_Uva.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-3 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/3_Rosa_bebe.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/3_Rosa_bebe.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-4 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/4_Violeta.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/4_Violeta.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-5 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/5_Perla.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/5_Perla.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-6 {
-background: url('/imagenes-heburn/esmaltes/semipermanentes/6_Borgona.png') center, no-repeat;
+background: url('/imagenes-heburn/esmaltes/semipermanentes/6_Borgona.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-7 {
-background: url('/imagenes-heburn/esmaltes/semipermanentes/7_Rosa_coralino.png') center, no-repeat;
+background: url('/imagenes-heburn/esmaltes/semipermanentes/7_Rosa_coralino.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-8 {
-background: url('/imagenes-heburn/esmaltes/semipermanentes/8_Marron.png') center, no-repeat;
+background: url('/imagenes-heburn/esmaltes/semipermanentes/8_Marron.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-9 {
-background: url('/imagenes-heburn/esmaltes/semipermanentes/9_Marron_rose.png') center, no-repeat;
+background: url('/imagenes-heburn/esmaltes/semipermanentes/9_Marron_rose.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-10 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/10_Rojo_suave.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/10_Rojo_suave.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-11 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/11_Violeta_intenso.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/11_Violeta_intenso.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-12 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/12_Rosa_destellos.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/12_Rosa_destellos.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-13 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/13_Violeta_indigo.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/13_Violeta_indigo.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-14 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/14_Fuxia_intenso.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/14_Fuxia_intenso.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-15 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/15_Rojo_intenso.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/15_Rojo_intenso.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-16 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/16_Tostado.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/16_Tostado.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-17 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/17_Rosa_brillante.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/17_Rosa_brillante.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-18 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/18_Rosa_champagne.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/18_Rosa_champagne.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-19 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/19_Fuxia_brillante.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/19_Fuxia_brillante.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-20 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/20_Nude.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/20_Nude.png') center no-repeat;
   
 }
 .esmalte__hover--semipermanente-21 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/21_Rosa_Fluo.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/21_Rosa_Fluo.png') center no-repeat;
   
 }
 .esmalte__hover--semipermanente-22 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/22_Black.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/22_Black.png') center no-repeat;
   
 }
 .esmalte__hover--semipermanente-23 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/23_Blanco_french.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/23_Blanco_french.png') center no-repeat;
   
 }
 .esmalte__hover--semipermanente-24 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/24_Via_lactea.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/24_Via_lactea.png') center no-repeat;
   
 }
 .esmalte__hover--semipermanente-25 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/25_Amarillo_fluo.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/25_Amarillo_fluo.png') center no-repeat;
   
 }
 .esmalte__hover--semipermanente-26 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/26_Coral_Fluo.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/26_Coral_Fluo.png') center no-repeat;
   
 }
 .esmalte__hover--semipermanente-27 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/27_Verde_pastel.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/27_Verde_pastel.png') center no-repeat;
   
 }
 .esmalte__hover--semipermanente-28 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/28_Amarillo_pastel.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/28_Amarillo_pastel.png') center no-repeat;
   
 }
 .esmalte__hover--semipermanente-29 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/29_Lavanda_pastel.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/29_Lavanda_pastel.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-30 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/30_Verde_Manzana_Brillante.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/30_Verde_Manzana_Brillante.png') 59% 49% no-repeat;
 }
 .esmalte__hover--semipermanente-31 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/31_Azul_Francia.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/31_Azul_Francia.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-32 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/32_Naranja_Fluo.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/32_Naranja_Fluo.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-33 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/33_Gris_Oscuro.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/33_Gris_Oscuro.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-34 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/34_Gris_Claro.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/34_Gris_Claro.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-35 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/35_Chocolate.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/35_Chocolate.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-36 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/36_Rosa_Princesa.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/36_Rosa_Princesa.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-37 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/37_Nieve.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/37_Nieve.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-38 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/38_Rosa_Via_Lactea.png') center, no-repeat;
-}
-.esmalte__hover--semipermanente-39 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/56_Rojo_Glitter.png') center, no-repeat;
-}
-.esmalte__hover--semipermanente-40 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/57_Turquesa_Glitter.png') center, no-repeat;
-}
-.esmalte__hover--semipermanente-41 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/58_Naranja_Glitter.png') center, no-repeat;
-}
-.esmalte__hover--semipermanente-42 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/59_Fantasia_Celeste.png') center, no-repeat;
-}
-.esmalte__hover--semipermanente-43 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/60_Fantasia_Verde.png') center, no-repeat;
-}
-.esmalte__hover--semipermanente-44 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/61_Fantasia_Naranja.png') center, no-repeat;
-}
-.esmalte__hover--semipermanente-45 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/62_Fantasia_Rosa.png') center, no-repeat;
-}
-.esmalte__hover--semipermanente-46 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/171_Top_Coat_Glitter.png') center, no-repeat;
-}
-.esmalte__hover--semipermanente-47 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/171_top_coat_gel.png') center, no-repeat;
-}
-.esmalte__hover--semipermanente-48 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/172_base_gel.png') center, no-repeat;
-}
-.esmalte__hover--semipermanente-49 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/173_top_coat_matte_gel.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/38_Rosa_Via_Lactea.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-50 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/50_Plata_glitter.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/50_Plata_glitter.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-51 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/51_Oro_glitter.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/51_Oro_glitter.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-52 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/52_Lila_glitter.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/52_Lila_glitter.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-53 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/53_Fuxia_glitter.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/53_Fuxia_glitter.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-54 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/54_Dior_glitter.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/54_Dior_glitter.png') center no-repeat;
 }
 .esmalte__hover--semipermanente-55 {
-  background: url('/imagenes-heburn/esmaltes/semipermanentes/55_Violeta_glitter.png') center, no-repeat;
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/55_Violeta_glitter.png') center no-repeat;
+}
+.esmalte__hover--semipermanente-56 {
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/56_Rojo_Glitter.png') center no-repeat;
+}
+.esmalte__hover--semipermanente-57 {
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/57_Turquesa_Glitter.png') center no-repeat;
+}
+.esmalte__hover--semipermanente-58 {
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/58_Naranja_Glitter.png') center no-repeat;
+}
+.esmalte__hover--semipermanente-59 {
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/59_Fantasia_Celeste.png') center no-repeat;
+}
+.esmalte__hover--semipermanente-60 {
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/60_Fantasia_Verde.png') center no-repeat;
+}
+.esmalte__hover--semipermanente-61 {
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/61_Fantasia_Naranja.png') center no-repeat;
+}
+.esmalte__hover--semipermanente-62 {
+  background: url('/imagenes-heburn/esmaltes/semipermanentes/62_Fantasia_Rosa.png') center no-repeat;
+}
+
+.esmalte__hover--semipermanente::after {
+  color: rgb(238, 209, 209);
+  
+  font-size: 0.7em;
+  
+  left: -0.5em;
+  position: absolute;
+  top: -2em;
+}
+
+.esmalte__hover--semipermanente-1::after {
+  content: 'Coral';
+  left: 0.2em;
+  top: -1.5em;
+}
+.esmalte__hover--semipermanente-2::after {
+  content: 'Uva';
+  left: 0.2em;
+  top: -1.5em;
+}
+.esmalte__hover--semipermanente-3::after {
+  content: 'Rosa Bebe';
+}
+.esmalte__hover--semipermanente-4::after {
+  content: 'Violeta';
+  left: 0.2em;
+  top: -1.5em;
+}
+.esmalte__hover--semipermanente-5::after {
+  content: 'Perla';
+  left: 0.2em;
+  top: -1.5em;
+}
+.esmalte__hover--semipermanente-6::after {
+  content: 'Borgaña';
+  left: 0.2em;
+  top: -1.5em;
+}
+.esmalte__hover--semipermanente-7::after {
+  content: 'Rojo Coralino';
+}
+.esmalte__hover--semipermanente-8::after {
+  content: 'Marron';
+  left: 0.2em;
+  top: -1.5em;
+}
+.esmalte__hover--semipermanente-9::after {
+  content: 'Marron Rose';
+}
+.esmalte__hover--semipermanente-10::after {
+  content: 'Rojo Suave';
+}
+.esmalte__hover--semipermanente-11::after {
+  content: 'Violeta Intenso';
+}
+.esmalte__hover--semipermanente-12::after {
+  content: 'Rosa Destellos';
+}
+.esmalte__hover--semipermanente-13::after {
+  content: 'Violeta Indigo';
+}
+.esmalte__hover--semipermanente-14::after {
+  content: 'Fuxia Intenso';
+}
+.esmalte__hover--semipermanente-15::after {
+  content: 'Rojo Intenso';
+}
+.esmalte__hover--semipermanente-16::after {
+  content: 'Tostado';
+  left: -0.5em;
+  top: -1.5em;
+}
+.esmalte__hover--semipermanente-17::after {
+  content: 'Rosa Brillante';
+}
+.esmalte__hover--semipermanente-18::after {
+  content: 'Rosa Chapagne';
+}
+.esmalte__hover--semipermanente-19::after {
+  content: 'Fuxia Brillante';
+}
+.esmalte__hover--semipermanente-20::after {
+  content: 'Nude';
+  left: 0.2em;
+  top: -1.5em;
+}
+.esmalte__hover--semipermanente-21::after {
+  content: 'Rosa Fluo';
+}
+.esmalte__hover--semipermanente-22::after {
+  content: 'Black';
+  left: 0.2em;
+  top: -1.5em;
+}
+.esmalte__hover--semipermanente-23::after {
+  content: 'Blanco French';
+}
+.esmalte__hover--semipermanente-24::after {
+  content: 'Via Lactea';
+}
+.esmalte__hover--semipermanente-25::after {
+  content: 'Amarillo Fluo';
+}
+.esmalte__hover--semipermanente-26::after {
+  content: 'Coral Fluo';
+}
+.esmalte__hover--semipermanente-27::after {
+  content: 'Verde Pastel';
+}
+.esmalte__hover--semipermanente-28::after {
+  content: 'Amarillo Pastel';
+}
+.esmalte__hover--semipermanente-29::after {
+  content: 'Lavanda Pastel';
+}
+.esmalte__hover--semipermanente-30::after {
+  content: 'Verde Manzana';
+}
+.esmalte__hover--semipermanente-31::after {
+  content: 'Azul Francia';
+}
+.esmalte__hover--semipermanente-32::after {
+  content: 'Naranja Fluo';
+}
+.esmalte__hover--semipermanente-33::after {
+  content: 'Gris Oscuro';
+}
+.esmalte__hover--semipermanente-34::after {
+  content: 'Gris Claro';
+}
+.esmalte__hover--semipermanente-35::after {
+  content: 'Chocolate';
+  left: -1em;
+  top: -1.5em;
+}
+.esmalte__hover--semipermanente-36::after {
+  content: 'Rosa Princesa';
+}
+.esmalte__hover--semipermanente-37::after {
+  content: 'Nieve';
+  left: 0.2em;
+  top: -1.5em;
+}
+.esmalte__hover--semipermanente-38::after {
+  content: 'Rosa Via L';
+}
+.esmalte__hover--semipermanente-50::after {
+  content: 'Plata Glitter';
+}
+.esmalte__hover--semipermanente-51::after {
+  content: 'Oro Glitter';
+}
+.esmalte__hover--semipermanente-52::after {
+  content: 'Lila Glitter';
+}
+.esmalte__hover--semipermanente-53::after {
+  content: 'Fuxia Glitter';
+}
+.esmalte__hover--semipermanente-54::after {
+  content: 'Dior Glitter';
+}
+.esmalte__hover--semipermanente-55::after {
+  content: 'Violeta Glitter';
+}
+.esmalte__hover--semipermanente-56::after {
+  content: 'Rojo Glitter';
+}
+.esmalte__hover--semipermanente-57::after {
+  content: 'Turquesa Glitter';
+}
+.esmalte__hover--semipermanente-58::after {
+  content: 'Naranja Glitter';
+}
+.esmalte__hover--semipermanente-59::after {
+  content: 'Fantasia Celeste';
+}
+.esmalte__hover--semipermanente-60::after {
+  content: 'Fantasia Verde';
+}
+.esmalte__hover--semipermanente-61::after {
+  content: 'Fantasia Naranja';
+}
+.esmalte__hover--semipermanente-62::after {
+  content: 'Fantasia Rosa';
 }

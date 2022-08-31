@@ -1,39 +1,109 @@
+.contenedor__tonos--volatil10 {
+  border: none!important;
+  border-radius: 0;
+
+  height: 6em;
+  width: 3.5em;
+  
+  margin: 0.4em 0.5em;
+
+  position: relative;
+}
+
 .contenedor__tonos--volatil10-1 {
-  background: url('/imagenes-heburn/ojos/sombra/Volatil_1.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/Volatil_1.png') center no-repeat;
+  background-size: contain;
 }
 .contenedor__tonos--volatil10-2 {
-  background: url('/imagenes-heburn/ojos/sombra/Volatil_2.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/Volatil_2.png') center no-repeat;
+  background-size: contain;
 }
 .contenedor__tonos--volatil10-3 {
-  background: url('/imagenes-heburn/ojos/sombra/Volatil_3.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/Volatil_3.png') center no-repeat;
+  background-size: contain;
 }
 .contenedor__tonos--volatil10-4 {
-  background: url('/imagenes-heburn/ojos/sombra/Volatil_4.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/Volatil_4.png') center no-repeat;
+  background-size: contain;
 }
 .contenedor__tonos--volatil10-5 {
-  background: url('/imagenes-heburn/ojos/sombra/Volatil_5.png') center, no-repeat;
-}
-.contenedor__tonos--volatil10-5b {
-  background: url('/imagenes-heburn/ojos/sombra/Volatil_5b.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/Volatil_5.png') center no-repeat;
+  background-size: contain;
 }
 .contenedor__tonos--volatil10-6 {
-  background: url('/imagenes-heburn/ojos/sombra/Volatil_6.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/Volatil_6.png') center no-repeat;
+  background-size: contain;
 }
 .contenedor__tonos--volatil10-7 {
-  background: url('/imagenes-heburn/ojos/sombra/Volatil_7.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/Volatil_7.png') center no-repeat;
+  background-size: contain;
 }
 .contenedor__tonos--volatil10-8 {
-  background: url('/imagenes-heburn/ojos/sombra/Volatil_8.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/Volatil_8.png') center no-repeat;
+  background-size: contain;
 }
 .contenedor__tonos--volatil10-20 {
-  background: url('/imagenes-heburn/ojos/sombra/Volatil_20.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/Volatil_20.png') center no-repeat;
+  background-size: contain;
 }
 .contenedor__tonos--volatil10-21 {
-  background: url('/imagenes-heburn/ojos/sombra/Volatil_21.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/Volatil_21.png') center no-repeat;
+  background-size: contain;
 }
 .contenedor__tonos--volatil10-22 {
-  background: url('/imagenes-heburn/ojos/sombra/Volatil_22.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/Volatil_22.png') center no-repeat;
+  background-size: contain;
 }
 .contenedor__tonos--volatil10-23 {
-  background: url('/imagenes-heburn/ojos/sombra/Volatil_23.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/Volatil_23.png') center no-repeat;
+  background-size: contain;
+}
+
+.contenedor__tonos--volatil10::after {
+  color: rgb(238, 209, 209);
+
+  content: 'Color 00';
+  
+  font-size: 0.9em;
+  
+  left: 0em;
+  position: absolute;
+  top: -1.5em;
+}
+
+.contenedor__tonos--volatil10-1::after{
+  content: 'Color 01';
+}
+.contenedor__tonos--volatil10-2::after{
+  content: 'Color 02';
+}
+.contenedor__tonos--volatil10-3::after{
+  content: 'Color 03';
+}
+.contenedor__tonos--volatil10-4::after{
+  content: 'Color 04';
+}
+.contenedor__tonos--volatil10-5::after{
+  content: 'Color 05';
+}
+.contenedor__tonos--volatil10-6::after{
+  content: 'Color 06';
+}
+.contenedor__tonos--volatil10-7::after{
+  content: 'Color 07';
+}
+.contenedor__tonos--volatil10-8::after{
+  content: 'Color 08';
+}
+.contenedor__tonos--volatil10-20::after{
+  content: 'Color 20';
+}
+.contenedor__tonos--volatil10-21::after{
+  content: 'Color 21';
+}
+.contenedor__tonos--volatil10-22::after{
+  content: 'Color 22';
+}
+.contenedor__tonos--volatil10-23::after{
+  content: 'Color 23';
 }

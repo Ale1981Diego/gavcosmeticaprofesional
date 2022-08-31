@@ -4,6 +4,10 @@ section#coloracion, section#decoloracion, section#tratamientos, section#styling,
     padding: 1em;
 }
 
+section > h2 {
+    text-align: center;
+}
+
 section#coloracion span.subrayado, section#decoloracion span.subrayado, section#tratamientos span.subrayado, section#styling span.subrayado, section#hairLogic span.subrayado {
     display: block;
     height: 0.3em;

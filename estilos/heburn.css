@@ -73,17 +73,17 @@ span.subrayado {
   height: 575px;
 }
 
-.contenedor__rostro {
-  height: 700px; /*768px (breakpoint) contenedor con heigth: 600px*/
+.contenedor__rostro, .contenedor__accesorios {
+  height: 700px;
 }
 
 .esmalte {
-  height: 600px;
+  height: 700px;
 }
 
 
 
-.contenedor__labios, .contenedor__ojos, .contenedor__rostro, .esmalte {
+.contenedor__labios, .contenedor__ojos, .contenedor__rostro, .esmalte, .contenedor__accesorios {
   align-items: center;
 
   border: 1px solid rgba(230, 178, 178, 0.726);
@@ -137,11 +137,56 @@ img.contenedor__rostro--cod-116, img.contenedor__rostro--cod-180, img.contenedor
   width: 108px;
 }
 
-.contenedor__labios--titulo, .contenedor__ojos--titulo, .contenedor__rostro--titulo, .esmalte__titulo {
+.contenedor__accesorios--151, .contenedor__accesorios--421 {
+  height: 375px;
+}
+
+.contenedor__accesorios--231 {
+  height: auto;
+  width: 200px;
+}
+
+.contenedor__accesorios--474, .contenedor__accesorios--497 {
+  width: 239px;
+}
+
+.contenedor__accesorios--475, .contenedor__accesorios--496, .contenedor__accesorios--504, .contenedor__accesorios--508, .contenedor__accesorios--718, .contenedor__accesorios--719, .contenedor__accesorios--919, .contenedor__accesorios--491, .contenedor__accesorios--501 {
+  width: 250px;
+}
+
+.contenedor__accesorios--817 {
+  width: 350px;
+}
+
+.contenedor__accesorios--971 {
+  width: 315px;
+}
+
+.contenedor__accesorios--1503 {
+  width: 230px;
+}
+
+.contenedor__accesorios--1600 {
+  width: 190px;
+}
+
+.contenedor__accesorios--509 {
+  height: 300px;
+}
+
+.contenedor__accesorios--1440, .contenedor__accesorios--942 {
+  height: 230px;
+}
+
+.contenedor__accesorios--lima {
+  height: 270px;
+}
+
+.contenedor__labios--titulo, .contenedor__ojos--titulo, .contenedor__rostro--titulo, .esmalte__titulo, .contenedor__accesorios--titulo {
   text-transform: uppercase;
 }
 
-.contenedor__labios--titulo, .contenedor__ojos--titulo, .contenedor__ojos--texto, .contenedor__rostro--titulo, .contenedor__rostro > p, .esmalte__titulo, .esmalte__texto {
+.contenedor__labios--titulo, .contenedor__ojos--titulo, .contenedor__ojos--texto, .contenedor__rostro--titulo, .contenedor__rostro > p, .esmalte__titulo, .esmalte__texto, .contenedor__accesorios--titulo, .contenedor__accesorios--texto {
   margin-top: 1rem;
 }
 
@@ -151,6 +196,10 @@ img.contenedor__rostro--cod-116, img.contenedor__rostro--cod-180, img.contenedor
 
 .esmalte__texto--gel {
   text-align: justify;
+}
+
+.contenedor__accesorios--lista {
+  list-style-position: inside;
 }
 
 .contenedor__labios__hover, .contenedor__ojos__hover,.contenedor__rostro--hover, .contenedor__rostro--hover, .esmalte__hover {
@@ -231,13 +280,106 @@ img.contenedor__rostro--cod-116, img.contenedor__rostro--cod-180, img.contenedor
   display: none;
 }
 
-@media screen and (min-width: 
-768px) {
+@media screen and (min-width: 375px) {
+  .contenedor__accesorios--231, .contenedor__accesorios--1503, .contenedor__accesorios--1600 {
+    width: auto;
+  }
+
+  .contenedor__accesorios--474, .contenedor__accesorios--504, .contenedor__accesorios--508 {
+    height: 290px;
+    width: auto;
+  }
+
+  .contenedor__accesorios--475, .contenedor__accesorios--496, .contenedor__accesorios--497, .contenedor__accesorios--501 {
+    height: 180px;
+    width: auto;
+  }
+
+  .contenedor__accesorios--817 {
+    width: 400px;
+  }
+
+  .contenedor__accesorios--919, .contenedor__accesorios--491 {
+    width: 300px;
+  }
+
+  .contenedor__accesorios--971 {
+    width: 380px;
+  }
+
+  .contenedor__accesorios--509 {
+    height: 375px;
+  }
+
+  .contenedor__accesorios--1440 {
+    height: 300px;
+  }
+
+}
+
+@media screen and (min-width: 385px) {
+  .contenedor__accesorios--lima {
+    height: 375px;
+  }
+
+  .contenedor__accesorios--lima.translate {
+    transform: rotate(-45deg);
+  }
+}
+@media screen and (min-width: 736px) {
+  .contenedor__accesorios--titulo-474, .contenedor__accesorios--titulo-504, .contenedor__accesorios--titulo-508 {
+    margin-top: calc(85px + 1rem);
+  }
+  
+
+  .contenedor__accesorios--titulo-475, .contenedor__accesorios--titulo-496, .contenedor__accesorios--titulo-497 {
+    margin-top: calc(85px + 1rem);
+  }
+
+  .contenedor__accesorios--titulo-718, .contenedor__accesorios--titulo-719 {
+    margin-top: calc(375px - 307px + 1rem);
+  }
+  
+  .contenedor__accesorios--titulo-817 {
+    margin-top: calc(375px - 250px + 1rem );
+  }
+
+  .contenedor__accesorios--titulo-919 {
+    margin-top: calc(375px - 222px + 1rem);
+  }
+
+  .contenedor__accesorios--titulo-971 {
+    margin-top: calc(375px - 313px + 1rem);
+  }
+
+  .contenedor__accesorios--titulo-491 {
+    margin-top: calc(375px - 294px + 1rem);
+  }
+
+  .contenedor__accesorios--titulo-501 {
+    margin-top: calc(375px - 180px + 1rem);
+  }
+
+  .contenedor__accesorios--942 {
+    height: 375px;
+  }
+}
+
+@media screen and (min-width:768px) {
     .contenedor__rostro {
         height: 600px;
     }
 
     .esmalte {
-      height: 525px;
+      height: 580px;
     }
+
+    .contenedor__accesorios {
+      height: 750px;
+    }
+    
+    .contenedor__accesorios--1440 {
+      height: 375px;
+    }
+
 }

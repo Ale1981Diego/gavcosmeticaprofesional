@@ -166,96 +166,95 @@
   
   font-size: 0.7em;
   
-  left: -1.4em;
+  left: 0em;
   position: absolute;
   top: -1.2em;
 }
 
 .hover__labios--premium-cremoso-21::after {
-  content: '21 Crem';
+  content: 'Cremoso';
 }
 .hover__labios--premium-cremoso-23::after {
-  content: '23 Crem';
+  content: 'Cremoso';
 }
 .hover__labios--premium-cremoso-24::after {
-  content: '24 Crem';
+  content: 'Cremoso';
 }
 .hover__labios--premium-cremoso-28::after {
-  content: '28 Crem';
+  content: 'Cremoso';
 }
 .hover__labios--premium-cremoso-29::after {
-  content: '29 Crem';
+  content: 'Cremoso';
 }
 .hover__labios--premium-cremoso-31::after {
-  content: '31 Crem';
+  content: 'Cremoso';
 }
 .hover__labios--premium-cremoso-43::after {
-  content: '43 Crem';
+  content: 'Cremoso';
 }
 .hover__labios--premium-cremoso-45::after {
-  content: '45 Crem';
+  content: 'Cremoso';
 }
 .hover__labios--premium-cremoso-48::after {
-  content: '48 Crem';
+  content: 'Cremoso';
 }
 .hover__labios--premium-cremoso-59::after {
-  content: '59 Crem';
+  content: 'Cremoso';
 }
 .hover__labios--premium-cremoso-64::after {
-  content: '64 Crem';
+  content: 'Cremoso';
 }
 .hover__labios--premium-cremoso-68::after {
-  content: '68 Crem';
+  content: 'Cremoso';
 }
 .hover__labios--premium-matte-52::after {
-  content: '52 Uva';
+  content: 'Uva';
 }
 .hover__labios--premium-matte-53::after {
-  content: '53 Rojo';
+  content: 'Rojo';
 }
 .hover__labios--premium-matte-54::after {
-  content: '54 Rosa';
+  content: 'Rosa';
 }
 .hover__labios--premium-matte-55::after {
-  content: '55 Salmon';
-  left: -1.6em;
+  content: 'Salmon';
 }
 .hover__labios--premium-matte-56::after {
-  content: '56 Nude'
+  content: 'Nude'
 }
 .hover__labios--premium-matte-57::after {
-  content: '57Capuchino';
+  content: 'Capuchino';
 }
 .hover__labios--premium-perlado-01::after {
-  content: '01 Perl';
+  content: 'Perlado';
 }
 .hover__labios--premium-perlado-02::after {
-  content: '02 Perl';
+  content: 'Perlado';
 }
 .hover__labios--premium-perlado-03::after {
-  content: '03 Perl';
+  content: 'Perlado';
 }
 .hover__labios--premium-perlado-04::after {
-  content: '04 Perl';
+  content: 'Perlado';
 }
 .hover__labios--premium-perlado-07::after {
-  content: '07 Perl';
+  content: 'Perlado';
 }
 .hover__labios--premium-perlado-08::after {
-  content: '08 Perl';
+  content: 'Perlado';
 }
 .hover__labios--premium-perlado-09::after {
-  content: '09 Perl';
+  content: 'Perlado';
 }
 .hover__labios--premium-perlado-61::after {
-  content: '61 Perl';
+  content: 'Perlado';
 }
 .hover__labios--premium-perlado-92::after {
-  content: '92 Perl';
+  content: 'Perlado';
 }
 .hover__labios--premium-perlado-95::after {
-  content: '95 Perl';
+  content: 'Perlado';
 }
 .hover__labios--premium-perlado-96::after {
-  content: '96 Perl';
+  content: 'Perlado';
 }

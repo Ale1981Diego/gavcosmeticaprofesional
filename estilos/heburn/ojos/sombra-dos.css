@@ -90,9 +90,9 @@ div.contenedor__tonos--duo::after {
   
   font-size: 0.9em;
   
-  left: 1.25em;
+  left: 1.6em;
   position: absolute;
-  top: -1em;
+  top: -1.5em;
 }
 
 .contenedor__tonos--1::after {

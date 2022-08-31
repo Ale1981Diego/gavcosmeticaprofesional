@@ -5,6 +5,7 @@
 @import url('./estilos/hairssime.css');
 @import url('./estilos/catalogo-hs.css');
 @import url('./estilos/heburn.css');
+@import url('./estilos/hunter.css');
 @import url('./estilos/heburn/labios/redondo-hd.css');
 @import url('./estilos/heburn/labios/premium-hd.css');
 @import url('./estilos/heburn/labios/brillo-aplicador.css');
@@ -47,4 +48,5 @@
 @import url('./estilos/heburn/unias/tratamientos.css');
 @import url('./estilos/heburn/unias/gel-pocket.css');
 @import url('./estilos/heburn/unias/semipermanente.css');
+@import url('./estilos/heburn/unias/top-coat.css');
 @import url('./estilos/heburn/unias/gibre-glitter.css');

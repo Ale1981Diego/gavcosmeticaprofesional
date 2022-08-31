@@ -1,42 +1,48 @@
+.contenedor__tonos--volatil {
+  height: 4em;
+  width: 4em;
+  position: relative;
+}
+
 .contenedor__ojos--img--sombra-volatil {
   height: 230px;
   width: auto;
 }
 
 .contenedor__tonos--volatil-01 {
-  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_01.png') 35% center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_01.png') 35% center no-repeat;
 }
 .contenedor__tonos--volatil-02 {
-  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_02.png') 35% center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_02.png') 35% center no-repeat;
 }
 .contenedor__tonos--volatil-03 {
-  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_03.png') 35% center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_03.png') 35% center no-repeat;
 }
 .contenedor__tonos--volatil-04 {
-  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_04.png') 35% center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_04.png') 35% center no-repeat;
 }
 .contenedor__tonos--volatil-05 {
-  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_05.png') 35% center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_05.png') 35% center no-repeat;
 }
 .contenedor__tonos--volatil-06 {
-  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_06.png') 35% center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_06.png') 35% center no-repeat;
 }
 .contenedor__tonos--volatil-07 {
-  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_07.png') 35% center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_07.png') 35% center no-repeat;
 }
 .contenedor__tonos--volatil-08 {
-  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_08.png') 35% center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_08.png') 35% center no-repeat;
 }
-.contenedor__tonos--volatil-09 {
+/* .contenedor__tonos--volatil-09 {
   background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_09.png') 35% center, no-repeat;
 }
 .contenedor__tonos--volatil-10 {
   background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_10.png') 35% center, no-repeat;  
-}
+} */
 .contenedor__tonos--volatil-11 {
-  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_11.png') 35% center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_11.png') 35% center no-repeat;
 }
-.contenedor__tonos--volatil-12 {
+/* .contenedor__tonos--volatil-12 {
   background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_12.png') 35% center, no-repeat;
 }
 .contenedor__tonos--volatil-13 {
@@ -44,11 +50,11 @@
 }
 .contenedor__tonos--volatil-14 {
   background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_14.png') 35% center, no-repeat;
-}
+} */
 .contenedor__tonos--volatil-15 {
-  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_15.png') 35% center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_15.png') 35% center no-repeat;
 }
-.contenedor__tonos--volatil-16 {
+/* .contenedor__tonos--volatil-16 {
   background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_16.png') 35% center, no-repeat;
 }
 .contenedor__tonos--volatil-17 {
@@ -56,11 +62,11 @@
 }
 .contenedor__tonos--volatil-18 {
   background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_18.png') 35% center, no-repeat;
-}
+} */
 .contenedor__tonos--volatil-19 {
-  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_19.png') 35% center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_19.png') 35% center no-repeat;
 }
-.contenedor__tonos--volatil-20 {
+/* .contenedor__tonos--volatil-20 {
   background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_20.png') 35% center, no-repeat;
 }
 .contenedor__tonos--volatil-21 {
@@ -74,12 +80,59 @@
 }
 .contenedor__tonos--volatil-24 {
   background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_24.png') 35% center, no-repeat;
-}
+} */
 .contenedor__tonos--volatil-25 {
-  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_25.png') 35% center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_25.png') 35% center no-repeat;
 }
-.contenedor__tonos--volatil-26 {
+/* .contenedor__tonos--volatil-26 {
   background: url('/imagenes-heburn/ojos/sombra/388_Sombra_volatil_perlada_26.png') 35% center, no-repeat;
+} */
+
+.contenedor__tonos--volatil::after {
+  color: rgb(238, 209, 209);
+  
+  font-size: 0.9em;
+  
+  left: 1.6em;
+  position: absolute;
+  top: -1.5em;
+}
+
+.contenedor__tonos--volatil-01::after {
+  content: '01';
+}
+.contenedor__tonos--volatil-02::after {
+  content: '02';
+}
+.contenedor__tonos--volatil-03::after {
+  content: '03';
+}
+.contenedor__tonos--volatil-04::after {
+  content: '04';
+}
+.contenedor__tonos--volatil-05::after {
+  content: '05';
+}
+.contenedor__tonos--volatil-06::after {
+  content: '06';
+}
+.contenedor__tonos--volatil-07::after {
+  content: '07';
+}
+.contenedor__tonos--volatil-08::after {
+  content: '08';
+}
+.contenedor__tonos--volatil-11::after {
+  content: '11';
+}
+.contenedor__tonos--volatil-15::after {
+  content: '15';
+}
+.contenedor__tonos--volatil-19::after {
+  content: '19';
+}
+.contenedor__tonos--volatil-25::after {
+  content: '25';
 }
 
 @media screen and (min-width: 768px) {

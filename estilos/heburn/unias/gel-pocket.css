@@ -4,10 +4,12 @@
   border-radius: 50%;
 
   color: #ffffff;
-  height: 1.5em;
-  width: 1.5em;
+  height: 1.8em;
+  width: 1.8em;
 
-  margin: 0.5em;
+  margin: 0.8em 0.75em;
+
+  position: relative;
 
   z-index: 2;
 }
@@ -18,167 +20,318 @@
 }
 
 .esmalte__hover--gel-pocket-1 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-1.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-1.png') center 60% no-repeat;
+  color: #777;
 }
 
 .esmalte__hover--gel-pocket-2 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-2.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-2.png') center 60% no-repeat;
+  color: #777;
 }
 
 .esmalte__hover--gel-pocket-3{
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-3.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-3.png') center 60% no-repeat;
 }
 
 .esmalte__hover--gel-pocket-4 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-4.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-4.png') center 60% no-repeat;
 }
 
 .esmalte__hover--gel-pocket-5 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-5.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-5.png') center 60% no-repeat;
 }
 
 .esmalte__hover--gel-pocket-6 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-6.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-6.png') center 60% no-repeat;
 }
 
 .esmalte__hover--gel-pocket-7 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-7.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-7.png') center 60% no-repeat;
 }
 
 .esmalte__hover--gel-pocket-8 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-8.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-8.png') center 60% no-repeat;
 }
 
 .esmalte__hover--gel-pocket-9 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-9.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-9.png') center 60% no-repeat;
 }
 
 .esmalte__hover--gel-pocket-10 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-10.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-10.png') center 60% no-repeat;
 }
 
 .esmalte__hover--gel-pocket-11 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-11.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-11.png') center 60% no-repeat;
 }
 
 .esmalte__hover--gel-pocket-12 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-12.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-12.png') center 60% no-repeat;
 }
 
 .esmalte__hover--gel-pocket-13 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-13.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-13.png') center 60% no-repeat;
 }
 
 .esmalte__hover--gel-pocket-14 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-14.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-14.png') center 60% no-repeat;
 }
 
 .esmalte__hover--gel-pocket-15 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-15.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-15.png') center 60% no-repeat;
 }
 
 .esmalte__hover--gel-pocket-16 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-16.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-16.png') center 60% no-repeat;
 }
 
 .esmalte__hover--gel-pocket-17 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-17.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-17.png') center 60% no-repeat;
 }
 
 .esmalte__hover--gel-pocket-18 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-18.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-18.png') center 60% no-repeat;
 }
 
 .esmalte__hover--gel-pocket-19 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-19.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-19.png') center 60% no-repeat;
 }
 
 .esmalte__hover--gel-pocket-20 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-20.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-20.png') center 60% no-repeat;
 }
 
 .esmalte__hover--gel-pocket-21 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-21.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-21.png') center 60% no-repeat;
 }
 
 .esmalte__hover--gel-pocket-22 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-22.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-22.png') center 60% no-repeat;
 }
 
-.esmalte__hover--gel-pocket-23 {
+/* .esmalte__hover--gel-pocket-23 {
   background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-23.png') center, no-repeat;
-}
+} */
 
 .esmalte__hover--gel-pocket-24 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-24.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-24.png') center 60% no-repeat;
 }
 
 .esmalte__hover--gel-pocket-25 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-25.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-25.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-26 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-26.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-26.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-27 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-27.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-27.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-28 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-28.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-28.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-29 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-29.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-29.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-30 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-30.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-30.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-31 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-31.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-31.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-32 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-32.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-32.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-33 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-33.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-33.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-34 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-34.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-34.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-35 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-35.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-35.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-36 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-36.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-36.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-37 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-37.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-37.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-38 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-38.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-38.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-39 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-39.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-39.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-40 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-40.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-40.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-41 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-41.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-41.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-42 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-42.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-42.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-43 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-43.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-43.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-44 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-44.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-44.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-45 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-45.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-45.png') center 60% no-repeat;
 }
 .esmalte__hover--gel-pocket-46 {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-46.png') center, no-repeat;
+  background:  url('/imagenes-heburn/esmaltes/gel-pocket/gel-pocket-46.png') center 60% no-repeat;
 }
-.esmalte__hover--gel-pocket-topCoat {
-  background:  url('/imagenes-heburn/esmaltes/gel-pocket/pocket-TopCoat.png') center, no-repeat;
+
+.esmalte__hover--gel-pocket::after {
+  color: rgb(238, 209, 209);
+  
+  font-size: 0.8em;
+  
+  left: 0em;
+  position: absolute;
+  top: -2em;
+}
+
+.esmalte__hover--gel-pocket-1::after {
+  content: 'Via Lactea';
+}
+.esmalte__hover--gel-pocket-2::after {
+  content: 'Blanco';
+}
+.esmalte__hover--gel-pocket-3::after {
+  content: 'Fucsia';
+}
+.esmalte__hover--gel-pocket-4::after {
+  content: 'Fucsia';
+}
+.esmalte__hover--gel-pocket-5::after {
+  content: 'Lila';
+}
+.esmalte__hover--gel-pocket-6::after {
+  content: 'Rosa';
+}
+.esmalte__hover--gel-pocket-7::after {
+  content: 'Rojo';
+}
+.esmalte__hover--gel-pocket-8::after {
+  content: 'Rojo ';
+}
+.esmalte__hover--gel-pocket-9::after {
+  content: 'Bordo';
+}
+.esmalte__hover--gel-pocket-10::after {
+  content: 'Uva';
+}
+.esmalte__hover--gel-pocket-11::after {
+  content: 'Negro';
+}
+.esmalte__hover--gel-pocket-12::after {
+  content: 'Nude';
+}
+.esmalte__hover--gel-pocket-13::after {
+  content: 'Rosa';
+}
+.esmalte__hover--gel-pocket-14::after {
+  content: 'Vison';
+}
+.esmalte__hover--gel-pocket-15::after {
+  content: 'Plomo';
+}
+.esmalte__hover--gel-pocket-16::after {
+  content: 'Peltre';
+}
+.esmalte__hover--gel-pocket-17::after {
+  content: 'Plata';
+}
+.esmalte__hover--gel-pocket-18::after {
+  content: 'Oro';
+}
+.esmalte__hover--gel-pocket-19::after {
+  content: 'Dior';
+}
+.esmalte__hover--gel-pocket-20::after {
+  content: 'Fucsia';
+}
+.esmalte__hover--gel-pocket-21::after {
+  content: 'Violeta';
+  left: -1em;
+}
+.esmalte__hover--gel-pocket-22::after {
+  content: 'Turquesa';
+  left: -1em;
+}
+.esmalte__hover--gel-pocket-24::after {
+  content: 'Verde';
+}
+.esmalte__hover--gel-pocket-25::after {
+  content: 'Amarillo';
+  left: -0.8em;
+}
+.esmalte__hover--gel-pocket-26::after {
+  content: 'Amarillo';
+  left: -0.7em;
+}
+.esmalte__hover--gel-pocket-27::after {
+  content: 'Naranja';
+  left: -0.5em;
+}
+.esmalte__hover--gel-pocket-28::after {
+  content: 'Naranja';
+  left: -0.5em;
+}
+.esmalte__hover--gel-pocket-29::after {
+  content: 'Rosa';
+}
+.esmalte__hover--gel-pocket-30::after {
+  content: 'Lila';
+}
+.esmalte__hover--gel-pocket-31::after {
+  content: 'Azul';
+}
+.esmalte__hover--gel-pocket-32::after {
+  content: 'Violeta';
+}
+.esmalte__hover--gel-pocket-33::after {
+  content: 'Obispo';
+}
+.esmalte__hover--gel-pocket-34::after {
+  content: 'Fuxia';
+}
+.esmalte__hover--gel-pocket-35::after {
+  content: 'Coral';
+}
+.esmalte__hover--gel-pocket-36::after {
+  content: 'Vison Oscuro';
+}
+.esmalte__hover--gel-pocket-37::after {
+  content: 'Tostado';
+}
+.esmalte__hover--gel-pocket-38::after {
+  content: 'Gris Oscuro';
+}
+.esmalte__hover--gel-pocket-39::after {
+  content: 'Metalico Plata';
+}
+.esmalte__hover--gel-pocket-40::after {
+  content: 'Metalico Cobre';
+}
+.esmalte__hover--gel-pocket-41::after {
+  content: 'Lila Pastel';
+}
+.esmalte__hover--gel-pocket-42::after {
+  content: 'Rosa Pastel';
+}
+.esmalte__hover--gel-pocket-43::after {
+  content: 'Verde Pastel';
+}
+.esmalte__hover--gel-pocket-44::after {
+  content: 'Amarillo Pastel';
+}
+.esmalte__hover--gel-pocket-45::after {
+  content: 'Celeste Pastel';
+}
+.esmalte__hover--gel-pocket-46::after {
+  content: 'Naranja Pastel';
 }

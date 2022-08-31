@@ -1,0 +1,85 @@
+div.contenedor-grid.ceras {
+    grid-template-rows: 450px 450px 450px 450px 450px;
+}
+
+div.contenedor-grid.toilette {
+    grid-template-rows: 500px 500px 500px;
+}
+
+div.contenedor-grid.cera__polvo {
+    grid-template-rows: 500px 500px;
+}
+
+div.contenedor-grid.balsamo {
+    grid-template-rows: 500px;
+}
+
+section h2, .titulo__hover {
+    text-transform: uppercase;
+}
+
+/* ceras */
+
+.contenedor__cera--matte {
+    background: url('/imagenes-thehunter/mattefiberpomade.png') 90% center no-repeat;
+    background-size: cover;
+}
+.contenedor__cera--medium {
+    background: url('/imagenes-thehunter/mediumformingpaste.png') 35% center no-repeat;
+    background-size: cover;
+}
+.contenedor__cera--natural {
+    background: url('/imagenes-thehunter/naturalwhiteclay.png') 35% center no-repeat;
+    background-size: cover;
+}
+.contenedor__cera--crystal {
+    background: url('/imagenes-thehunter/sheencrystalwax.png') 50% center no-repeat;
+    background-size: cover;
+}
+.contenedor__cera--arcilla {
+    background: url('/imagenes-thehunter/organicmentholargil.png') 50% center no-repeat;
+    background-size: cover;
+}
+
+
+/* toilette */
+
+.contenedor__toilette--1 {
+    background: url('/imagenes-thehunter/edt1.png') center no-repeat;
+
+}
+.contenedor__toilette--2 {
+    background: url('/imagenes-thehunter/edt2.png') center no-repeat;
+
+}
+.contenedor__toilette--3 {
+    background: url('/imagenes-thehunter/edt3.png') center no-repeat;
+}
+
+/* ceras en polvo */
+.contenedor__cera-polvo-powder{
+    background: url('/imagenes-thehunter/mattepowder.png') 75% center no-repeat;
+}
+.contenedor__cera-polvo-duster{
+    background: url('/imagenes-thehunter/shineduster.png') 75% center no-repeat;
+}
+
+/* balsamo */
+
+.contenedor__balsamo {
+    background: url('/imagenes-thehunter/beardserum.png') 25% center no-repeat;
+    background-size: cover;
+}
+
+@media screen and (min-width: 624px) {
+    div.contenedor-grid.ceras {
+        grid-template-rows: 500px 500px 500px;
+    }
+    div.contenedor-grid.toilette {
+        grid-template-rows: 500px 500px;
+    }
+
+    div.contenedor-grid.cera__polvo {
+        grid-template-rows: 500px;
+    }
+}

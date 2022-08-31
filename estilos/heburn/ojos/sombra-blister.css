@@ -1,3 +1,7 @@
+.contenedor__tonos--blister {
+  position:relative;
+}
+
 .contenedor__ojos--img--blister {
   height: 130px;
   width: auto;
@@ -6,86 +10,181 @@
 }
 
 .contenedor__tonos--blister-01 {
-  background: url('/imagenes-heburn/ojos/sombra/blister1.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister1.png') center no-repeat;
 }
 .contenedor__tonos--blister-02 {
-  background: url('/imagenes-heburn/ojos/sombra/blister2.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister2.png') center no-repeat;
 }
 .contenedor__tonos--blister-03 {
-  background: url('/imagenes-heburn/ojos/sombra/blister3.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister3.png') center no-repeat;
 }
 .contenedor__tonos--blister-04 {
-  background: url('/imagenes-heburn/ojos/sombra/blister4.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister4.png') center no-repeat;
 }
 .contenedor__tonos--blister-05 {
-  background: url('/imagenes-heburn/ojos/sombra/blister5.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister5.png') center no-repeat;
 }
 .contenedor__tonos--blister-07 {
-  background: url('/imagenes-heburn/ojos/sombra/blister7.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister7.png') center no-repeat;
 }
 .contenedor__tonos--blister-11 {
-  background: url('/imagenes-heburn/ojos/sombra/blister11.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister11.png') center no-repeat;
 }
 .contenedor__tonos--blister-12 {
-  background: url('/imagenes-heburn/ojos/sombra/blister12.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister12.png') center no-repeat;
 }
 .contenedor__tonos--blister-13 {
-  background: url('/imagenes-heburn/ojos/sombra/blister13.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister13.png') center no-repeat;
 }
 .contenedor__tonos--blister-15 {
-  background: url('/imagenes-heburn/ojos/sombra/blister15.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister15.png') center no-repeat;
 }
 .contenedor__tonos--blister-18 {
-  background: url('/imagenes-heburn/ojos/sombra/blister18.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister18.png') center no-repeat;
 }
 .contenedor__tonos--blister-26 {
-  background: url('/imagenes-heburn/ojos/sombra/blister26.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister26.png') center no-repeat;
 }
 .contenedor__tonos--blister-29 {
-  background: url('/imagenes-heburn/ojos/sombra/blister29.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister29.png') center no-repeat;
 }
 .contenedor__tonos--blister-31 {
-  background: url('/imagenes-heburn/ojos/sombra/blister31.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister31.png') center no-repeat;
 }
 .contenedor__tonos--blister-32 {
-  background: url('/imagenes-heburn/ojos/sombra/blister32.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister32.png') center no-repeat;
 }
 .contenedor__tonos--blister-33 {
-  background: url('/imagenes-heburn/ojos/sombra/blister33.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister33.png') center no-repeat;
 }
 .contenedor__tonos--blister-34 {
-  background: url('/imagenes-heburn/ojos/sombra/blister34.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister34.png') center no-repeat;
 }
 .contenedor__tonos--blister-35 {
-  background: url('/imagenes-heburn/ojos/sombra/blister35.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister35.png') center no-repeat;
 }
 .contenedor__tonos--blister-37 {
-  background: url('/imagenes-heburn/ojos/sombra/blister37.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister37.png') center no-repeat;
 }
 .contenedor__tonos--blister-51 {
-  background: url('/imagenes-heburn/ojos/sombra/blister51.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister51.png') center no-repeat;
 }
 .contenedor__tonos--blister-52 {
-  background: url('/imagenes-heburn/ojos/sombra/blister52.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister52.png') center no-repeat;
 }
 .contenedor__tonos--blister-54 {
-  background: url('/imagenes-heburn/ojos/sombra/blister54.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister54.png') center no-repeat;
 }
 .contenedor__tonos--blister-55 {
-  background: url('/imagenes-heburn/ojos/sombra/blister55.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister55.png') center no-repeat;
 }
 .contenedor__tonos--blister-56 {
-  background: url('/imagenes-heburn/ojos/sombra/blister56.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister56.png') center no-repeat;
 }
 .contenedor__tonos--blister-57 {
-  background: url('/imagenes-heburn/ojos/sombra/blister57.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister57.png') center no-repeat;
 }
 .contenedor__tonos--blister-61 {
-  background: url('/imagenes-heburn/ojos/sombra/blister61.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister61.png') center no-repeat;
 }
 .contenedor__tonos--blister-64 {
-  background: url('/imagenes-heburn/ojos/sombra/blister64.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blister64.png') center no-repeat;
 }
 .contenedor__tonos--blister-bm {
-  background: url('/imagenes-heburn/ojos/sombra/blisterbm.png') center, no-repeat;
+  background: url('/imagenes-heburn/ojos/sombra/blisterbm.png') center no-repeat;
+}
+
+.contenedor__tonos--blister::after {
+  color: rgb(238, 209, 209);
+  
+  font-size: 0.9em;
+  
+  left: 0.6em;
+  position: absolute;
+  top: -1em;
+}
+
+.contenedor__tonos--blister-01::after {
+  content: '01';
+}
+.contenedor__tonos--blister-02::after {
+  content: '02';
+}
+.contenedor__tonos--blister-03::after {
+  content: '03';
+}
+.contenedor__tonos--blister-04::after {
+  content: '04';
+}
+.contenedor__tonos--blister-05::after {
+  content: '05';
+}
+.contenedor__tonos--blister-07::after {
+  content: '07';
+}
+.contenedor__tonos--blister-11::after {
+  content: '11';
+}
+.contenedor__tonos--blister-12::after {
+  content: '12';
+}
+.contenedor__tonos--blister-13::after {
+  content: '13';
+}
+.contenedor__tonos--blister-15::after {
+  content: '15';
+}
+.contenedor__tonos--blister-18::after {
+  content: '18';
+}
+.contenedor__tonos--blister-26::after {
+  content: '26';
+}
+.contenedor__tonos--blister-29::after {
+  content: '29';
+}
+.contenedor__tonos--blister-31::after {
+  content: '31';
+}
+.contenedor__tonos--blister-32::after {
+  content: '32';
+}
+.contenedor__tonos--blister-33::after {
+  content: '33';
+}
+.contenedor__tonos--blister-34::after {
+  content: '34';
+}
+.contenedor__tonos--blister-35::after {
+  content: '35';
+}
+.contenedor__tonos--blister-37::after {
+  content: '37';
+}
+.contenedor__tonos--blister-51::after {
+  content: '51';
+}
+.contenedor__tonos--blister-52::after {
+  content: '52';
+}
+.contenedor__tonos--blister-54::after {
+  content: '54';
+}
+.contenedor__tonos--blister-55::after {
+  content: '55';
+}
+.contenedor__tonos--blister-56::after {
+  content: '56';
+}
+.contenedor__tonos--blister-57::after {
+  content: '57';
+}
+.contenedor__tonos--blister-61::after {
+  content: '61';
+}
+.contenedor__tonos--blister-64::after {
+  content: '64';
+}
+.contenedor__tonos--blister-bm::after {
+  content: 'BM';
 }
