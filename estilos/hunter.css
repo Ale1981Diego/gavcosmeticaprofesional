@@ -73,13 +73,21 @@ section h2, .titulo__hover {
 
 @media screen and (min-width: 624px) {
     div.contenedor-grid.ceras {
+        grid-template-columns: 35% 35%;
         grid-template-rows: 500px 500px 500px;
     }
     div.contenedor-grid.toilette {
+        grid-template-columns: 35% 35%;
         grid-template-rows: 500px 500px;
     }
 
     div.contenedor-grid.cera__polvo {
+        grid-template-columns: 35% 35%;
+        grid-template-rows: 500px;
+    }
+
+    div.contenedor-grid.balsamo {
+        grid-template-columns: 35%;
         grid-template-rows: 500px;
     }
 }
