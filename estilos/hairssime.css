@@ -6,6 +6,7 @@ section#coloracion, section#decoloracion, section#tratamientos, section#styling,
 
 section > h2 {
     text-align: center;
+    color: #0000EE;
 }
 
 section#coloracion span.subrayado, section#decoloracion span.subrayado, section#tratamientos span.subrayado, section#styling span.subrayado, section#hairLogic span.subrayado {

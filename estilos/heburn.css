@@ -48,6 +48,7 @@
 .productos__opciones--titulo {
   margin-top: 2rem;
   text-transform: uppercase;
+  color: #0000ee;
 }
 
 span.subrayado {
