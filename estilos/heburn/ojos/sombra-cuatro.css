@@ -157,11 +157,6 @@
   background-repeat: no-repeat;
   background-size: 600%;
 }
-.contenedor__tonos--cuarteto-41 {
-  background: url('/gavcosmeticaprofesional/imagenes-heburn/ojos/sombra/315-41.png') center 50%;
-  background-repeat: no-repeat;
-  background-size: 600%;
-}
 .contenedor__tonos--cuarteto-42 {
   background: url('/gavcosmeticaprofesional/imagenes-heburn/ojos/sombra/315-42.png') center 50%;
   background-repeat: no-repeat;
@@ -324,9 +319,6 @@
 }
 .contenedor__tonos--cuarteto-40::after {
   content: '40';
-}
-.contenedor__tonos--cuarteto-41::after {
-  content: '41';
 }
 .contenedor__tonos--cuarteto-42::after {
   content: '42';
