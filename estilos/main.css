@@ -83,9 +83,8 @@ div.nosotros-texto > ul {
 
 div.nosotros .nosotros-img img {
     display: block;
-    width: 75%;
-    margin: 0 auto;
-    transform: rotate(90deg);
+    width: 100%;
+    margin: 0.5em auto;
 }
 
 .carousel-inicio {
@@ -185,13 +184,6 @@ div.icono-llamada .fa-phone, .fa-arrow-up {
     transform: scale(0.7);
 }
 
-@media (min-width: 425px) {
-    div.nosotros-img {
-        padding: 0 1.5em;
-    }
-    
-}
-
 
 @media (min-width: 768px) {
     main {
@@ -211,9 +203,8 @@ div.icono-llamada .fa-phone, .fa-arrow-up {
     }
 
     div.nosotros .nosotros-img img {
-        width: 15em;
-        margin: 0 auto;
-        transform: rotate(90deg);
+        width: 25em;
+        margin: 1em auto;
         border-radius: 0.5em;
         box-shadow: 0.5em -0.5em 1.5em;
     }
@@ -254,7 +245,7 @@ div.icono-llamada .fa-phone, .fa-arrow-up {
     }
 
     div.nosotros .nosotros-img img {
-        width: 20em;
+        width: 25em;
     }
 
     #mk-icono {
@@ -284,5 +275,11 @@ div.icono-llamada .fa-phone, .fa-arrow-up {
 
     #mk-icono div img.img-width {
         width: 200px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    div.nosotros .nosotros-img img {
+        width: 30em;
     }
 }
