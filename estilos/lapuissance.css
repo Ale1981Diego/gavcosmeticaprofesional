@@ -1,5 +1,13 @@
 /* menu */
 
+section.icono-puissance {
+  background: url('/gavcosmeticaprofesional/imagenes/lapuissance\ ico.png') center no-repeat;
+  background-size: contain;
+      
+  height: 100px;
+  width: 100%;
+}
+
 div.navegacion.navegacion-marcas.navegacion-puissance a {
   height: 3.5em;
   line-height: 3.5em;

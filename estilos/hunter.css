@@ -1,3 +1,13 @@
+section.icono-hunter {
+  background: url('/gavcosmeticaprofesional/imagenes-thehunter/logo-thehunter.png') center no-repeat;
+  background-size: contain;
+      
+  height: 100px;
+  width: 100%;
+
+  margin: 5em 0 2em 0;
+}
+
 div.contenedor-grid.ceras {
   grid-template-rows: 450px 450px 450px 450px 450px;
 }

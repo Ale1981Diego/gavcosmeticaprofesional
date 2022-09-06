@@ -1,3 +1,11 @@
+section.icono-heburn {
+  background: url('/gavcosmeticaprofesional/imagenes/heburn\ ico.png') center no-repeat;
+  background-size: contain;
+      
+  height: 100px;
+  width: 100%;
+}
+
 .seccion-select {
   border-bottom: 1px solid #E19438;
 
