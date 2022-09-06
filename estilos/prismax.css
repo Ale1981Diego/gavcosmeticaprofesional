@@ -1,0 +1,46 @@
+.contenedor__prismax {
+	align-items: center;
+
+	background-color: rgb(247, 242, 242);
+	border: 1px solid rgba(230, 178, 178, 0.726);
+	border-radius: 0.5em;
+	box-shadow: 0.5em 0.5em 1.5em;
+
+	display: flex;
+	flex-direction: column;
+
+	margin-left: 1rem;
+	margin-right: 1rem;
+	margin-top: 1rem;
+	padding: 1rem;
+
+	overflow: hidden;
+	position: relative;
+
+	max-width: 320px;
+	width: 100%;
+}
+
+.img__prismax {
+  height: 375px;
+}
+
+.img__prismax.h250 {
+  height: 250px;
+}
+
+.contenedor__prismax--titulo {
+  margin-top: 1rem;
+  text-transform: uppercase;
+}
+
+
+
+
+
+
+@media screen and (min-width: 736px) {
+  .contenedor__prismax--titulo.t250 {
+    margin-top: calc(375px - 250px + 1rem);
+  }
+}
