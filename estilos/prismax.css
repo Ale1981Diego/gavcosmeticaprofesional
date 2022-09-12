@@ -1,4 +1,4 @@
-section.icono-prismax{
+section.icono-prismax {
   background: url('/gavcosmeticaprofesional/imagenes/prismax.png') center no-repeat;
   background-size: 200px;
 
@@ -328,6 +328,12 @@ section.icono-prismax{
 @media screen and (min-width: 736px) {
   .contenedor__prismax--titulo.t250 {
     margin-top: calc(375px - 250px + 1rem);
+  }
+}
+
+@media screen and (min-width: 768px) {
+  section.icono-prismax {
+    margin-top: 6em;
   }
 }
 

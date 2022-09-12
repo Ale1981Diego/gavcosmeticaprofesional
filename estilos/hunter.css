@@ -103,3 +103,9 @@ section h2, .titulo__hover {
       grid-template-rows: 500px;
   }
 }
+
+@media screen and (min-width: 768px) {
+  section.icono-hunter {
+    margin-top: 6em;
+  }
+}

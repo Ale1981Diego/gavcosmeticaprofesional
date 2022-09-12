@@ -375,20 +375,24 @@ img.contenedor__rostro--cod-116, img.contenedor__rostro--cod-180, img.contenedor
 }
 
 @media screen and (min-width:768px) {
-    .contenedor__rostro {
-        height: 600px;
-    }
+  section.icono-heburn {
+    margin-top: 6em;
+  }
 
-    .esmalte {
-      height: 580px;
-    }
+  .contenedor__rostro {
+    height: 600px;
+  }
 
-    .contenedor__accesorios {
-      height: 750px;
-    }
+  .esmalte {
+    height: 580px;
+  }
+
+  .contenedor__accesorios {
+    height: 750px;
+  }
     
-    .contenedor__accesorios--1440 {
-      height: 375px;
-    }
+  .contenedor__accesorios--1440 {
+    height: 375px;
+  }
 
 }

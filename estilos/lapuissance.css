@@ -54,6 +54,12 @@ div.navegacion.navegacion-marcas.navegacion-puissance a {
   margin-top: calc(280px - 180px + 1rem);
 }
 
+@media screen and (min-width: 768px) {
+  section.icono-puissance {
+    margin-top: 6em;
+  }
+}
+
 @media screen and (min-width: 1024px) {
   div.navegacion.navegacion-marcas.navegacion-puissance a {
     height: 4em;

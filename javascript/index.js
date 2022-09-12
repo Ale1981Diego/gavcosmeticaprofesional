@@ -94,3 +94,13 @@ Redes.addEventListener('click', (e) =>{
         window.open('https://api.whatsapp.com/send?phone=541134713549', '_blank');
     }
 });
+
+
+
+let link = document.querySelector('.text-link');
+
+link.style.cursor = 'pointer';
+
+link.addEventListener('click', ()=> {
+    window.open('https://www.alezetech.com.ar', '_blank');
+})

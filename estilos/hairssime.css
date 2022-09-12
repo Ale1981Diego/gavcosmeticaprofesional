@@ -109,6 +109,10 @@ div.producto-img img {
 
 @media (min-width: 768px) {
 
+  section.icono-hairssime {
+    margin-top: 6em;
+  }
+
   div.flex {
       display: flex;
       width: 100%;
