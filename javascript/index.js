@@ -87,7 +87,7 @@ Redes.addEventListener('click', (e) =>{
     } 
     else if ( (clase == 'fa-instagram') && (e.target.tagName == 'I')) 
     {
-        window.open('https://www.instagram.com/gav_distribuciones', '_blank');
+        window.open('https://www.instagram.com/gavcosmeticaprofesional', '_blank');
     } 
     else if ((clase == 'fa-whatsapp') && (e.target.tagName == 'I'))
     {
