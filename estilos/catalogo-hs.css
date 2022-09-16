@@ -16,11 +16,18 @@
 }
 
 div.contenedor-grid.decoloracion-tratamiento {
-    grid-template-rows: 450px 450px;
+    grid-template-rows: 600px 600px 600px;
+}
+
+div.contenedor-grid.tratamiento {
+    grid-template-rows: 600px 600px;
 }
 
 div.contenedor-grid.styling-hair {
-    grid-template-rows: 450px 450px 450px 450px 450px;
+    grid-template-rows: 450px 450px 450px 450px 450px 450px;
+}
+div.contenedor-grid.styling-hair.hair {
+    grid-template-rows: repeat(25, 600px);
 }
 
 .contenedor-grid-img {
@@ -39,6 +46,10 @@ div.contenedor-grid.styling-hair {
 
 .contenedor-grid-img img {
     width: 100%;
+}
+
+div.flex-textos-hover ul li{
+    margin: 0 0 0 1em;font-size: 0.8em;
 }
 
 .fa-angles-up {
@@ -131,10 +142,18 @@ img.mascara-color-protect {
     }
 
     div.contenedor-grid.decoloracion-tratamiento {
-        grid-template-rows: 500px;
+        grid-template-rows: 650px 650px;
+    }
+
+    div.contenedor-grid.tratamiento {
+        grid-template-rows: 600px;
     }
 
     div.contenedor-grid.styling-hair {
         grid-template-rows: 500px 500px 500px;
+    }
+
+    div.contenedor-grid.styling-hair.hair {
+        grid-template-rows: repeat(13, 600px);
     }
 }
