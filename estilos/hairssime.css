@@ -92,7 +92,9 @@ div.producto-img img {
   justify-content: center;
   border-radius: 50%;
   transition: all 200ms ease-in-out;
+  transition: 0.4s cubic-bezier(0.68, -0.50, 0.30, 1.5);
 }
+
 
 .fa-instagram {
   font-size: 1.5em;
